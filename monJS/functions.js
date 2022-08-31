@@ -47,20 +47,23 @@ function W_ENREGISTREMENT_DEMANDE(element, e) {
       console.log(resultat);
       // resultat = JSON.parse($.trim(res));
       // console.log(resultat);
-      if (resultat.error == 0) {
-        W_LOADER_SPIN(btSubmit, "stop");
-        alert(resultat.errorMsg);
-        allButtonInForm.removeAttr("disabled");
+
+      document.location.href = "https://wimmo-ci.com/_DEMO/";
+
+      // if (resultat.error == 0) {
+      //   W_LOADER_SPIN(btSubmit, "stop");
+      //   alert(resultat.errorMsg);
+      //   allButtonInForm.removeAttr("disabled");
         
-        // document.location.reload();
-        // document.location.href = "?page=bienDetails&id_biens="+resultat.id_biens;
-      }else if (resultat.status == 1) {//=== tous les locataires sont a jour
-        alert("INFO : \n"+resultat.errorMsg);
-      }else{
-        console.log("======>>>> Something going wrong");
-        alert("ECHEC : \n"+resultat.errorMsg);
-        allButtonInForm.removeAttr("disabled");
-      }
+      //   // document.location.reload();
+      //   // document.location.href = "?page=bienDetails&id_biens="+resultat.id_biens;
+      // }else if (resultat.status == 1) {//=== tous les locataires sont a jour
+      //   alert("INFO : \n"+resultat.errorMsg);
+      // }else{
+      //   console.log("======>>>> Something going wrong");
+      //   alert("ECHEC : \n"+resultat.errorMsg);
+      //   allButtonInForm.removeAttr("disabled");
+      // }
 
     })
     .fail(function() {

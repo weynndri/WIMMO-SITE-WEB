@@ -48,7 +48,7 @@
 
 	            <div class="mb-5 mt-4">
 	              <h4>Démo En Ligne</h4>
-	              <p class="heading text-danger">Remplissez le formulaire pour recevoir vos accès de connexion à la démo en ligne par e-mail</p>
+	              <p class="heading text-danger">Remplissez le formulaire pour accéder à la démo en ligne</p>
 	            </div>
 	            <!-- <i class="fas fa-bell icofont-email fa-4x animated rotateIn mb-4"></i> -->
 	            <p>

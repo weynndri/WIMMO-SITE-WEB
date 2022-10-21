@@ -10,8 +10,6 @@
   <meta content="Le meilleur logiciel de gestion immobilière (gestion locative, ...) qui vous propose plusieurs outils simples pour la gestion de vos biens à travers une plateforme ergonomique facile à utiliser" name="description">
   <meta content="Gestion immobilière locative logiciel ivoirien logiciel simple envoi de sms" name="keywords">
   <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5ZWR52P5T"></script> -->
   <script>
     // window.dataLayer = window.dataLayer || [];
 
@@ -41,12 +39,6 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Vesperr - v2.2.1
-  * Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 
 </head>
 

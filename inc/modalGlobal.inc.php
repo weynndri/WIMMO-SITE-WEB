@@ -24,6 +24,64 @@
 	    <div class="modal-dialog modal-notify modal-info" role="document">
 	      <!--Content-->
 	    
+	      	<div class="modal-content text-center">
+	      		<?php /** ?>
+		        <!--Header-->
+		        <div class="modal-header" align="center">
+		        	<h4>DEMANDE DE DEMO</h4>
+		          <!-- <div class="col-6"><button type="button" class="btn btn-info btn-block" onclick="
+		          W_SHOW_HIDE($('#demoOnline'), $('#demoVideo'));
+		          ">Démo en ligne</button></div>
+		          <div class="col-6"><button type="button" class="btn btn-outline-info btn-block" onclick="
+		          W_SHOW_HIDE($('#demoVideo'), $('#demoOnline'));
+		          ">Démo en vidéo</button></div> -->
+
+		          <!-- <img class="avatar avatar-xxl avatar-4by3" src="assets/svg/illustrations/unlock.svg" style="width: 200px;" alt="Image Description"> -->
+		        </div>
+		        <!--Body-->
+	      		<?php /**/ ?>
+	          
+	          	<div class="modal-body">
+		            <div class="mb-5 mt-4">
+		              <h4 class="text-muted">Démo En Ligne</h4>
+		              <p class="heading text-danger">Contactez nous pour une demande de démo, une présentation à distance ou en présentiel dans vos locaux. <br> Nos contacts sont les suivants,</p>
+		            </div>
+	          		
+	          		<hr>
+		            
+		            <p>
+		            	<b>WhatsApp : </b> <a href="https://api.whatsapp.com/send?phone=2250565799963">+225 05 657 999 63</a> <br>
+		            	<b>E-mail : </b> <a href="mailto:info@wimmo-ci.com">info@wimmo-ci.com</a> <br>
+		            	<b>E-mail : </b> <a href="mailto:services@wimmo-ci.com">services@wimmo-ci.com</a> <br>
+		            </p>
+	          	<!-- </div> -->
+	          		<hr>
+		        <!-- <div class="modal-body" id="demoVideo" hidden> -->
+		            <div class="mb-5 mt-4">
+		              <h4 class="text-muted">Démo Vidéo</h4>
+		              <p class="heading text-danger">Présentation du logiciel</p>
+		            </div>
+
+		          	<!-- <iframe width="100%" height="315" src="https://www.youtube.com/embed/K4gSvPYR4h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+		          	<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ghzxg5LIVeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		        </div>
+
+	      	</div>
+
+	      <!--/.Content-->
+	    </div>
+  	</div>
+  	<!--Modal: modalPush-->
+
+
+
+  	<?php /** ?>
+  	<!--Modal: modalPush-->
+  	<div class="modal fade" id="modalPush" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index: 9999!important;">
+	    <div class="modal-dialog modal-notify modal-info" role="document">
+	      <!--Content-->
+	    
 	      <div class="modal-content text-center">
 	        <!--Header-->
 	        <div class="modal-header">
@@ -90,4 +148,4 @@
 	    </div>
   	</div>
   	<!--Modal: modalPush-->
-
+  	<?php /**/ ?>

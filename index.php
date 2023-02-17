@@ -21,23 +21,23 @@
     // gtag('config', 'G-B5ZWR52P5T');
   </script>
   <!-- Favicons -->
-  <link href="assets/img/favicon.ico" rel="icon">
-  <link href="assets/img/favicon.ico" rel="apple-touch-icon">
+  <link href="_webSiteAssets/assets/img/favicon.ico" rel="icon">
+  <link href="_webSiteAssets/assets/img/favicon.ico" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="_webSiteAssets/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="_webSiteAssets/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="_webSiteAssets/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="_webSiteAssets/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="_webSiteAssets/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="_webSiteAssets/assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="_webSiteAssets/assets/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="_webSiteAssets/assets/css/style.css" rel="stylesheet">
 
 
 </head>
@@ -53,7 +53,7 @@
           <span>WIMMO</span>
         </a></h1> -->
         <!-- Uncomment below if you prefer to use an image logo -->
-         <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid" width="186px"></a>
+         <a href="index.php"><img src="_webSiteAssets/assets/img/logo.png" alt="" class="img-fluid" width="186px"></a>
       </div>
 
       <nav class="nav-menu d-none d-lg-block">
@@ -88,7 +88,7 @@
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
-          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="_webSiteAssets/assets/img/hero-img.png" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
@@ -104,27 +104,27 @@
         <div class="row">
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/sciKansourouba.png" class="img-fluid" alt="" data-aos="zoom-in" style="width: 70%;">
+            <img src="_webSiteAssets/assets/img/clients/sciKansourouba.png" class="img-fluid" alt="" data-aos="zoom-in" style="width: 70%;">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/wimmoLogo.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
+            <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/sciKansourouba.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200" style="width: 70%;">
+            <img src="_webSiteAssets/assets/img/clients/sciKansourouba.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200" style="width: 70%;">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/wimmoLogo.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
+            <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/sciKansourouba.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400" style="width: 70%;">
+            <img src="_webSiteAssets/assets/img/clients/sciKansourouba.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400" style="width: 70%;">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/wimmoLogo.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
+            <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
           </div>
 
         </div>
@@ -147,7 +147,7 @@
 
           <div class="testimonial-wrap">
             <div class="testimonial-item">
-              <img src="assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
+              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
               <h3>L'option <span class="text-info">Superviseur</span></h3>
               <h4>Nouveau !</h4>
               <p>
@@ -160,7 +160,7 @@
 
           <div class="testimonial-wrap">
             <div class="testimonial-item">
-              <img src="assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
+              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
               <h3>L'option <span class="text-primary">Alerte Versement</span></h3>
               <h4>Nouveau !</h4>
               <p>
@@ -173,7 +173,7 @@
 
           <div class="testimonial-wrap">
             <div class="testimonial-item">
-              <img src="assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
+              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
               <h3>L'option <span class="text-info">Alerte Loyer</span></h3>
               <h4>Nouveau !</h4>
               <p>
@@ -232,7 +232,7 @@
 
         <div class="row">
           <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-xl-start" data-aos="fade-right" data-aos-delay="150">
-            <img src="assets/img/counts-img.svg" alt="" class="img-fluid">
+            <img src="_webSiteAssets/assets/img/counts-img.svg" alt="" class="img-fluid">
           </div>
 
           <div class="col-xl-7 d-flex align-items-stretch pt-4 pt-xl-0" data-aos="fade-left" data-aos-delay="300">
@@ -522,10 +522,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="img/personne1.png" class="img-fluid" alt="">
+              <img src="_webSiteAssets/img/personne1.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <div class="portfolio-links">
-                  <a href="img/personne1.png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="_webSiteAssets/img/personne1.png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -533,11 +533,11 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="img/stock.png" class="img-fluid" alt="">
+              <img src="_webSiteAssets/img/stock.png" class="img-fluid" alt="">
               <div class="portfolio-info">
 
                 <div class="portfolio-links">
-                  <a href="img/stock.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="_webSiteAssets/img/stock.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -545,11 +545,11 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="img/personne3.png" class="img-fluid" alt="">
+              <img src="_webSiteAssets/img/personne3.png" class="img-fluid" alt="">
               <div class="portfolio-info">
 
                 <div class="portfolio-links">
-                  <a href="img/personne3.png" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <a href="_webSiteAssets/img/personne3.png" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -557,11 +557,11 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="img/produits1.png" class="img-fluid" alt="">
+              <img src="_webSiteAssets/img/produits1.png" class="img-fluid" alt="">
               <div class="portfolio-info">
 
                 <div class="portfolio-links">
-                  <a href="img/produits1.png" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+                  <a href="_webSiteAssets/img/produits1.png" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -569,11 +569,11 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="img/stock2.png" class="img-fluid" alt="">
+              <img src="_webSiteAssets/img/stock2.png" class="img-fluid" alt="">
               <div class="portfolio-info">
 
                 <div class="portfolio-links">
-                  <a href="img/stock2.png" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
+                  <a href="_webSiteAssets/img/stock2.png" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -581,11 +581,11 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="img/personne2.png" class="img-fluid" alt="">
+              <img src="_webSiteAssets/img/personne2.png" class="img-fluid" alt="">
               <div class="portfolio-info">
 
                 <div class="portfolio-links">
-                  <a href="img/personne2.png" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="_webSiteAssets/img/personne2.png" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -593,11 +593,11 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="img/produit2.png" class="img-fluid" alt="">
+              <img src="_webSiteAssets/img/produit2.png" class="img-fluid" alt="">
               <div class="portfolio-info">
 
                 <div class="portfolio-links">
-                  <a href="img/produit2.png" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
+                  <a href="_webSiteAssets/img/produit2.png" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -605,11 +605,11 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="img/produit3.png" class="img-fluid" alt="">
+              <img src="_webSiteAssets/img/produit3.png" class="img-fluid" alt="">
               <div class="portfolio-info">
 
                 <div class="portfolio-links">
-                  <a href="img/produit3.png" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                  <a href="_webSiteAssets/img/produit3.png" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -617,11 +617,11 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="img/stock3.png" class="img-fluid" alt="">
+              <img src="_webSiteAssets/img/stock3.png" class="img-fluid" alt="">
               <div class="portfolio-info">
 
                 <div class="portfolio-links">
-                  <a href="img/stock3.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="_webSiteAssets/img/stock3.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -648,7 +648,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="img/icon-workenbox.png" class="img-fluid" alt="">
+                <img src="_webSiteAssets/img/icon-workenbox.png" class="img-fluid" alt="">
                 <div class="social">
 
                 </div>
@@ -663,7 +663,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="img/icon-workenbox.png" class="img-fluid" alt="">
+                <img src="_webSiteAssets/img/icon-workenbox.png" class="img-fluid" alt="">
                 <div class="social">
 
                 </div>
@@ -678,7 +678,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="img/icon-workenbox.png" class="img-fluid" alt="">
+                <img src="_webSiteAssets/img/icon-workenbox.png" class="img-fluid" alt="">
                 <div class="social">
 
                 </div>
@@ -693,7 +693,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="img/icon-workenbox.png" class="img-fluid" alt="">
+                <img src="_webSiteAssets/img/icon-workenbox.png" class="img-fluid" alt="">
                 <div class="social">
 
                 </div>
@@ -851,7 +851,7 @@
 
           <div class="testimonial-wrap">
             <div class="testimonial-item">
-              <img src="assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
+              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
               <h3>BIENTOT</h3>
               <h4>BIENTOT</h4>
               <p>
@@ -864,7 +864,7 @@
 
           <div class="testimonial-wrap">
             <div class="testimonial-item">
-              <img src="assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
+              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
               <h3>BIENTOT</h3>
               <h4>BIENTOT</h4>
               <p>
@@ -877,7 +877,7 @@
 
           <div class="testimonial-wrap">
             <div class="testimonial-item">
-              <img src="assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
+              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
               <h3>BIENTOT</h3>
               <h4>BIENTOT</h4>
               <p>
@@ -890,7 +890,7 @@
 
           <div class="testimonial-wrap">
             <div class="testimonial-item">
-              <img src="assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
+              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
               <h3>BIENTOT</h3>
               <h4>BIENTOT</h4>
               <p>
@@ -903,7 +903,7 @@
 
           <div class="testimonial-wrap">
             <div class="testimonial-item">
-              <img src="assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
+              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
               <h3>BIENTOT</h3>
               <h4>BIENTOT</h4>
               <p>
@@ -967,7 +967,7 @@
           </div>
 
           <div class="col-lg-5 col-md-12" data-aos="fade-up" data-aos-delay="300" align="center">
-            <img src="assets/img/clients/wimmoLogo.png" width="300px" />
+            <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" width="300px" />
           </div>
 
         </div>
@@ -1021,11 +1021,11 @@
     <div class="modal-dialog modal-notify modal-info" role="document">
       <!--Content-->
 
-      <form method="POST" action="https://workenbox.tasyr.net/">
+      <form method="POST" action="#">
         <input type="hidden" name="_token" value="F08pA9fgxO43pAo4nEHHcZtsrvbrdibelQvIX0h5">        <div class="modal-content text-center">
           <!--Header-->
           <div class="modal-header d-flex justify-content-center">
-            <img class="avatar avatar-xxl avatar-4by3" src="assets/svg/illustrations/unlock.svg" style="width: 200px;" alt="Image Description">
+            <img class="avatar avatar-xxl avatar-4by3" src="_webSiteAssets/assets/svg/illustrations/unlock.svg" style="width: 200px;" alt="Image Description">
           </div>
           <div class="mb-4">
             <h1>ETAPE DE VERIFICATION</h1>
@@ -1060,7 +1060,7 @@
   <?php /**/ ?>
 
 
-  <?php include 'inc/modalGlobal.inc.php'; ?>
+  <?php include '_webSiteAssets/inc/modalGlobal.inc.php'; ?>
 
 
   <!--Section: Live preview-->
@@ -1082,22 +1082,22 @@
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="assets/vendor/counterup/counterup.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="_webSiteAssets/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="_webSiteAssets/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="_webSiteAssets/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="_webSiteAssets/assets/vendor/php-email-form/validate.js"></script>
+  <script src="_webSiteAssets/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="_webSiteAssets/assets/vendor/counterup/counterup.min.js"></script>
+  <script src="_webSiteAssets/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="_webSiteAssets/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="_webSiteAssets/assets/vendor/venobox/venobox.min.js"></script>
+  <script src="_webSiteAssets/assets/vendor/aos/aos.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="_webSiteAssets/assets/js/main.js"></script>
 
-  <script src="monJS/functions.js"></script>
-  <script src="monJS/script.js"></script>
+  <script src="_webSiteAssets/monJS/functions.js"></script>
+  <script src="_webSiteAssets/monJS/script.js"></script>
 
   <script>
     $(function () {

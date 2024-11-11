@@ -2,1109 +2,1374 @@
 <html lang="fr-FR">
 
 
+<!-- /*  background: linear-gradient(75deg, #4f1bc5, #7b17c5) !important; WWWWW*/  -->
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta content="Découvrez le logiciel de gestion immobilière ultime pour une gestion locative simplifiée. Profitez d'outils intuitifs et d'une plateforme ergonomique pour gérer vos biens facilement et efficacement." name="description">
+    <meta content="gestion immobilière, gestion locative, logiciel de gestion immobilière, logiciel locatif, envoi de SMS, gestion de biens immobiliers, plateforme de gestion immobilière, logiciel immobilier ivoirien, logiciel immobilier africain, gestion de propriétés, logiciel de location, gestion des locataires, outils de gestion immobilière" name="keywords">
 
-  <title>WIMMO</title>
-  <meta content="Le meilleur logiciel de gestion immobilière (gestion locative, ...) qui vous propose plusieurs outils simples pour la gestion de vos biens à travers une plateforme ergonomique facile à utiliser" name="description">
-  <meta content="Gestion immobilière locative logiciel ivoirien logiciel simple envoi de sms" name="keywords">
-  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-  <script>
-    // window.dataLayer = window.dataLayer || [];
+    <!--favicon icon-->
+    <link rel="icon" href="_webSiteAssets/assets/img/faveiconeSite-WIMMO-SERVICES.png" type="image/png" sizes="16x16">
 
-    // function gtag() {
-    //   dataLayer.push(arguments);
-    // }
-    // gtag('js', new Date());
+    <!--title-->
+    <title>WIMMO Software - Logiciel de Gestion Immobilière</title>
 
-    // gtag('config', 'G-B5ZWR52P5T');
-  </script>
-  <!-- Favicons -->
-  <link href="_webSiteAssets/assets/img/favicon.ico" rel="icon">
-  <link href="_webSiteAssets/assets/img/favicon.ico" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="_webSiteAssets/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="_webSiteAssets/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="_webSiteAssets/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="_webSiteAssets/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="_webSiteAssets/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="_webSiteAssets/assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="_webSiteAssets/assets/vendor/aos/aos.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="_webSiteAssets/assets/css/style.css" rel="stylesheet">
-
-
+    <!--build:css-->
+    <link rel="stylesheet" href="_webSiteAssets/assets/css/main.css">
+    <!-- endbuild -->
 </head>
 
-<body class="antialiased">
+<body>
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center">
-    <div class="container d-flex align-items-center">
+    <!--preloader start-->
+    <!-- <div id="preloader">
+        <div class="preloader-wrap">
+            <img src="_webSiteAssets/assets/img/logo-color.png" alt="logo" class="img-fluid" />
+            <div class="thecube">
+                <div class="cube c1"></div>
+                <div class="cube c2"></div>
+                <div class="cube c4"></div>
+                <div class="cube c3"></div>
+            </div>
+        </div>
+    </div> -->
+    <!--preloader end-->
+    <!--header section start-->
+    <header class="header">
+        <!--start navbar-->
+        <nav class="navbar navbar-expand-lg fixed-top bg-transparent">
+            <div class="container">
+                <a class="navbar-brand" href="./">
+                    <img src="_webSiteAssets/assets/img/logoSite2.png" alt="logo" class="img-fluid" />
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="ti-menu"></span>
+                </button>
 
-      <div class="logo mr-auto">
-        <!-- <h1 class="text-light"><a href="index.php">
-          <span>WIMMO</span>
-        </a></h1> -->
-        <!-- Uncomment below if you prefer to use an image logo -->
-         <a href="index.php"><img src="_webSiteAssets/assets/img/logo.png" alt="" class="img-fluid" width="186px"></a>
-      </div>
+                <div class="collapse navbar-collapse h-auto" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto menu">
+                        <li><a href="#" class="dropdown-toggle"> WIMMO </a>
+                            <ul class="sub-menu">
+                                <li><a href="#">Qui somme nous ?</a></li>
+                                <li><a href="#">Nos partenaires</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#about" class="page-scroll">Présentation</a></li>
+                        <li><a href="#features" class="page-scroll">Fonctionnalités</a></li>
+                        <!-- <li><a href="#screenshots" class="page-scroll">Screenshots</a></li> -->
+                        <!-- <li><a href="#process" class="page-scroll">Process</a></li> -->
+                        <li><a href="#pricing" class="page-scroll">Tarifs</a></li>
+                        <li><a href="#contact" class="page-scroll">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!--header section end-->
 
-      <nav class="nav-menu d-none d-lg-block">
-        <ul>
-          <li class="active"><a href="#hero">Accueil</a></li>
-          <li><a href="#about">C'est quoi wimmo ?</a></li>
-          <li><a href="#services">Fonctionnalités</a></li>
-          <!-- <li><a href="#portfolio">Produits</a></li> -->
-          <!-- <li><a href="#team">Equipes</a></li> -->
-          <!-- <li><a href="#pricing">Nos prix</a></li> -->
-          <!-- <li><a href="#testimonials">Partenaires</a></li> -->
-          <li><a href="#faq">Comment ça marche ?</a></li>
-          <li><a href="#contact">Contact</a></li>
+    <div class="main">
+        <!--hero section start-->
+        <section class="ptb-100 bg-image overflow-hidden" image-overlay="10">
+            <div class="hero-bottom-shape-two" style="background: url('_webSiteAssets/assets/img/hero-bottom-shape-2.svg')no-repeat bottom center"></div>
 
-          <li class="get-started"><a href="#" data-toggle="modal" data-target="#modalPush"  
-            onclick="$('.mobile-nav-toggle').click();"> Démo</a></li>
-        </ul>
-      </nav><!-- .nav-menu -->
+            <div class="container">
+                <div class="row align-items-center justify-content-lg-between justify-content-md-center justify-content-sm-center">
+                    <div class="col-md-12 col-lg-6">
+                        <div class="hero-slider-content text-white py-5">
+                            <h1 class="text-white text-uppercase">Logiciel de <span class="text-warning">Gestion Immobilière</span> </h1>
+                            <p class="lead">Simplifiez et optimisez votre gestion immobilière en Afrique grâce à un logiciel complet et accessible.</p>
+
+                            <div class="action-btns mt-3">
+                                <a href="#pricing" class="btn btn-brand-03 btn-rounded mr-3" style="color: #043d79 !important;font-weight: bold;">Commander Maintenant <i class="fas fa-cloud-download-alt pl-2"></i></a>
+                                <a href="https://www.youtube.com/watch?v=Ghzxg5LIVeQ" class="popup-youtube btn btn-white btn-circle btn-icon"><i class="fas fa-play"></i> </a> <span class="pl-2"> Voir la Démo</span>
+                            </div>
+                            <div class="hero-counter mt-4">
+                                <div class="row">
+                                    <div class="col-12 col-sm-12">
+                                        <div class="counter-item d-flex align-items-center py-3">
+                                            <h5 class="text-white mb-0">Location à parti de <span class="text-warning">10.000 F CFA</span> / Mois</h5>
+                                            <span class="color-6 ml-2 p-2 rounded-circle">
+                                                <i class="fas fa-arrow-up icon-sm"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-6">
+                        <!-- <div class="img-wrap">
+                            <img src="_webSiteAssets/assets/img/app-mobile-image.png" alt="app image" class="img-fluid hero-animated-card-2">
+                        </div> -->
+                        <div class="img-wrap">
+                            <img src="_webSiteAssets/assets/img/10.2.png" alt="app image" class="img-fluid hero-animated-card-2">
+                        </div>
+                    </div>
+                </div>
+                <!--end of row-->
+            </div>
+            <!--end of container-->
+        </section>
+
+
+
+        <!--hero section end-->
+
+        <!--promo section start-->
+        <section class="promo-section ptb-100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-lg-3">
+                        <div class="card border-0 single-promo-card p-2 mt-4 shadow">
+                            <div class="card-body">
+                                <div class="pb-2">
+                                    <span class="fas fa-globe-africa icon-size-md" style="color: #043d79 !important;font-weight: bold;"></span>
+                                </div>
+                                <div class="pt-2 pb-3">
+                                    <h5>Africain</h5>
+                                    <p class="mb-0">Logiciel conçu pour les agences immobilières africaine.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="card border-0 single-promo-card p-2 mt-4 shadow">
+                            <div class="card-body">
+                                <div class="pb-2">
+                                    <span class="fas fa-window-restore icon-size-md color-secondary" style="color: #ffc107 !important;font-weight: bold;"></span>
+                                </div>
+                                <div class="pt-2 pb-3">
+                                    <h5>Multi-Terminal</h5>
+                                    <p class="mb-0">Notre logiciel est compatible avec ordinateur, tablette, smartphone, etc.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="card border-0 single-promo-card p-2 mt-4 shadow">
+                            <div class="card-body">
+                                <div class="pb-2">
+                                    <span class="fas fa-sync-alt icon-size-md color-secondary" style="color: #ffc107 !important;font-weight: bold;"></span>
+                                </div>
+                                <div class="pt-2 pb-3">
+                                    <h5>Evolutif</h5>
+                                    <p class="mb-0">Mises à jour régulières pour de nouvelles fonctionnalités.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="card border-0 single-promo-card p-2 mt-4 shadow">
+                            <div class="card-body">
+                                <div class="pb-2">
+                                    <span class="fas fa-bezier-curve icon-size-md color-secondary" style="color: #043d79 !important;font-weight: bold;"></span>
+                                </div>
+                                <div class="pt-2 pb-3">
+                                    <h5>Personnalisable</h5>
+                                    <p class="mb-0">Des fonctionnalités spécifiques peuvent être ajoutées selon vos besoins.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--promo section end-->
+
+        <!--about us section start-->
+        <div class="overflow-hidden">
+            <!--about us section start-->
+            <section id="about" class="about-us ptb-100 background-shape-img position-relative">
+                <div class="animated-shape-wrap">
+                    <div class="animated-shape-item"></div>
+                    <div class="animated-shape-item"></div>
+                    <div class="animated-shape-item"></div>
+                    <div class="animated-shape-item"></div>
+                    <div class="animated-shape-item"></div>
+                </div>
+                <div class="container">
+                    <div class="row align-items-center justify-content-lg-between justify-content-md-center justify-content-sm-center">
+                        <div class="col-md-12 col-lg-6 mb-5 mb-md-5 mb-sm-5 mb-lg-0">
+                            <div class="about-content-left">
+                                <h2>Le Logiciel de Gestion Immobilière WIMMO-Software</h2>
+                                <p>Accessible depuis un ordinateur, une tablette ou un smartphone, WIMMO vous permet de suivre vos locations, gérer vos finances, et simplifier vos tâches administratives au quotidien. Avec des mises à jour régulières et la possibilité d’ajouter des fonctionnalités personnalisées, WIMMO-Software est l'allié indispensable pour une gestion immobilière moderne et efficace en Afrique.</p>
+                                <ul class="dot-circle pt-3">
+                                    <li>Avec WIMMO, vous n’êtes plus limité à un bureau ou un ordinateur fixe pour gérer et suivre votre activité.</li>
+                                    <li>Votre gestion immobilière évolue en intégrant des informations accessibles partout.</li>
+                                    <li>WIMMO innove en offrant une expertise moderne, permettant une collaboration efficace et des solutions personnalisées.</li>
+                                    <li>Optimisez en toute simplicité la qualité de votre gestion grâce à des outils fiables, que ce soit pour un suivi en ligne ou une gestion en local.</li>
+                                </ul>
+                                <div class="action-btns mt-4">
+                                    <a href="#" class="btn btn-brand-02 mr-3" title="Télécharger la Fiche Technique">La Fiche Technique <i class="fa fa-download"></i></a>
+                                    <a href="_webSiteAssets/assets/documents/WIMMO v2.5 - Nos Tarifs - Logiciel de Gestion Immobiliere.pdf" download="WIMMO Grille Tarifaire.v2.5.pdf" class="btn btn-outline-brand-02" title="Télécharger la Grille Tarifaire">La Grille Tarifaire <i class="fa fa-download"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-5 col-md-5 col-lg-4">
+                            <div class="about-content-right">
+                                <img src="_webSiteAssets/assets/img/Pochette-WIMMO-3.png" alt="about us" class="img-fluid">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--about us section end-->
+        </div>
+
+
+
+        <!--features section start-->
+        <div id="features" class="feature-section ptb-100 ">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-9">
+                        <div class="section-heading text-center mb-5">
+                            <h2>Fonctionnalités</h2>
+                            <p>Découvrez les outils essentiels de WIMMO pour une gestion immobilière simplifiée et efficace.</p>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row align-items-center">
+                    <div class="col-lg-8 col-md-12">
+                        <div class="row align-items-center">
+
+                            <div class="col-md-6 col-12">
+                                <div class="features-single-wrap mb-sm-0 mb-md-5 mb-lg-5">
+                                    <span class="ti-themify-favicon-alt p-3 mr-4 mt-1 rounded-circle float-left"></span>
+                                    <div class="features-single-content d-block overflow-hidden">
+                                        <h5 class="mb-2">Envois de SMS Professionnels</h5>
+                                        <p>Automatisez les rappels de loyer, les notifications de paiement, l’application de pénalités, et bien plus pour une communication efficace avec vos locataires.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-12">
+                                <div class="features-single-wrap mb-sm-0 mb-md-5 mb-lg-5">
+                                    <span class="ti-eye p-3 mr-4 mt-1 rounded-circle float-left"></span>
+                                    <div class="features-single-content d-block overflow-hidden">
+                                        <h5 class="mb-2">Suivi des locataires et des logements</h5>
+                                        <p>visualisez l'ensemble des informations essentielles liées aux contrats de location, aux paiements effectués et aux éventuels arriérés.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-12">
+                                <div class="features-single-wrap mb-sm-0 mb-md-5 mb-lg-5">
+                                    <span class=" p-3 mr-4 mt-1 rounded-circle float-left"></span>
+                                    <div class="features-single-content d-block overflow-hidden">
+                                        <h5 class="mb-2">Dépenses et apports</h5>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-12">
+                                <div class="features-single-wrap mb-sm-0 mb-md-5 mb-lg-5">
+                                    <span class=" p-3 mr-4 mt-1 rounded-circle float-left"></span>
+                                    <div class="features-single-content d-block overflow-hidden">
+                                        <h5 class="mb-2">Pénalités sur loyer</h5>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-12">
+                                <div class="features-single-wrap mb-sm-0 mb-md-5 mb-lg-5">
+                                    <span class=" p-3 mr-4 mt-1 rounded-circle float-left"></span>
+                                    <div class="features-single-content d-block overflow-hidden">
+                                        <h5 class="mb-2">Quittance de loyer et reçus caution automatique</h5>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-12">
+                                <div class="features-single-wrap mb-sm-0 mb-md-5 mb-lg-5">
+                                    <span class=" p-3 mr-4 mt-1 rounded-circle float-left"></span>
+                                    <div class="features-single-content d-block overflow-hidden">
+                                        <h5 class="mb-2">Etat des lieux</h5>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-12">
+                                <div class="features-single-wrap mb-sm-0 mb-md-5 mb-lg-5">
+                                    <span class=" p-3 mr-4 mt-1 rounded-circle float-left"></span>
+                                    <div class="features-single-content d-block overflow-hidden">
+                                        <h5 class="mb-2">Encaissemet et reversement de loyer</h5>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-12">
+                                <div class="features-single-wrap mb-sm-0 mb-md-5 mb-lg-5">
+                                    <span class=" p-3 mr-4 mt-1 rounded-circle float-left"></span>
+                                    <div class="features-single-content d-block overflow-hidden">
+                                        <h5 class="mb-2">Paimenent d'avance et de retards</h5>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-12">
+                                <div class="features-single-wrap mb-sm-0 mb-md-5 mb-lg-5">
+                                    <span class=" p-3 mr-4 mt-1 rounded-circle float-left"></span>
+                                    <div class="features-single-content d-block overflow-hidden">
+                                        <h5 class="mb-2">Multi-utilisateurs</h5>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-12">
+                                <div class="features-single-wrap mb-sm-0 mb-md-5 mb-lg-5">
+                                    <span class=" p-3 mr-4 mt-1 rounded-circle float-left"></span>
+                                    <div class="features-single-content d-block overflow-hidden">
+                                        <h5 class="mb-2">(.....)</h5>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <img src="_webSiteAssets/assets/img/quittanceLoyer2.png" class="img-fluid mx-auto d-lg-block d-none" alt="app screen">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--features section end-->
+
+        <section class="position-relative feature-section ptb-100">
+            <div class="container">
+                <div class="row align-items-center justify-content-between justify-content-sm-center justify-content-md-center">
+                    <div class="col-sm-5 col-md-6 col-lg-6 mb-5 mb-md-5 mb-sm-5 mb-lg-0">
+                        <div class="download-img">
+                            <img src="_webSiteAssets/assets/img/appMob.png" alt="download" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-6">
+                        <div class="feature-contents">
+                            <h2>Une Application Mobile Pour Vos Locataires</h2>
+                            <p>Offrez à vos locataires un outil pratique pour suivre leur situation locative. Une solution simple pour améliorer la communication et la transparence.  </p>
+                            <p>Avec cette application mobile, ils peuvent : </p>
+                            <ul class="dot-circle pt-2">
+                                <li>consulter leurs quittances</li>
+                                <li>signaler des incidents</li>
+                                <li>rester informés en temps réel</li>
+                            </ul>
+
+                            <div class="action-btns mt-4">
+                                <h4 class="text-muted">C'est Gratuit !!!</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!--about us section end-->
+
+        <?php /** ?>
+        <!--download section step start-->
+        <section class="bg-image ptb-100" image-overlay="8">
+            <div class="background-image-wraper" style="background: url('_webSiteAssets/assets/img/cta-bg.jpg')no-repeat center center / cover fixed; opacity: 1;"></div>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading text-center mb-1 text-white">
+                            <h2 class="text-white">Download Our Apps</h2>
+                            <p>Start working with that can provide everything you need to generate awareness, drive traffic, connect. Efficiently transform granular value with client-focused content. Energistically redefine market.</p>
+                            <div class="action-btns">
+                                <ul class="list-inline">
+                                    <li class="list-inline-item my-2">
+                                        <a href="#" class="d-flex align-items-center app-download-btn btn btn-brand-02 btn-rounded">
+                                            <span class="fab fa-windows icon-size-sm mr-3"></span>
+                                            <div class="download-text text-left">
+                                                <small>Download form</small>
+                                                <h5 class="mb-0">Windows</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="list-inline-item my-2">
+                                        <a href="#" class="d-flex align-items-center app-download-btn btn btn-brand-02 btn-rounded">
+                                            <span class="fab fa-apple icon-size-sm mr-3"></span>
+                                            <div class="download-text text-left">
+                                                <small>Download form</small>
+                                                <h5 class="mb-0">App Store</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="list-inline-item my-2">
+                                        <a href="#" class="d-flex align-items-center app-download-btn btn btn-brand-02 btn-rounded">
+                                            <span class="fab fa-google-play icon-size-sm mr-3"></span>
+                                            <div class="download-text text-left">
+                                                <small>Download form</small>
+                                                <h5 class="mb-0">Google Play</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!--end col-->
+                </div>
+                <!--end row-->
+            </div>
+        </section>
+        <?php /**/ ?>
+
+
+        <!--download section step end-->
+
+        <?php /** ?>
+        <!--screenshots section start-->
+        <section id="screenshots" class="screenshots-section pb-100 pt-100 gray-light-bg">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading text-center mb-5">
+                            <h2>Apps Screenshots</h2>
+                            <p>Proactively impact value-added channels via backend leadership skills. Efficiently revolutionize worldwide networks whereas strategic catalysts for change. </p>
+                        </div>
+                    </div>
+                </div>
+                <!--start app screen carousel-->
+                <div class="screenshot-wrap">
+                    <div class="screenshot-frame"></div>
+                    <div class="screen-carousel owl-carousel owl-theme dot-indicator">
+                        <img src="_webSiteAssets/assets/img/01.jpg" class="img-fluid" alt="screenshots" />
+                        <img src="_webSiteAssets/assets/img/02.jpg" class="img-fluid" alt="screenshots" />
+                        <img src="_webSiteAssets/assets/img/03.jpg" class="img-fluid" alt="screenshots" />
+                        <img src="_webSiteAssets/assets/img/04.jpg" class="img-fluid" alt="screenshots" />
+                        <img src="_webSiteAssets/assets/img/05.jpg" class="img-fluid" alt="screenshots" />
+                        <img src="_webSiteAssets/assets/img/06.jpg" class="img-fluid" alt="screenshots" />
+                    </div>
+                </div>
+                <!--end app screen carousel-->
+            </div>
+        </section>
+
+
+        <!--screenshots section end-->
+
+        <!--work process start-->
+        <section id="process" class="work-process-section position-relative  ptb-100 ">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading text-center mb-5">
+                            <h2>Our Work Process</h2>
+                            <p>
+                                Professional hosting at an affordable price. Distinctively recaptiualize principle-centered core competencies through client-centered core competencies.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center justify-content-md-center justify-content-sm-center">
+                    <div class="col-md-12 col-lg-6">
+                        <div class="work-process-wrap">
+                            <div class="process-single-item">
+                                <div class="process-icon-item left-shape">
+                                    <div class="d-flex align-items-center">
+                                        <div class="process-icon mr-4">
+                                            <i class="fas fa-project-diagram color-primary"></i>
+                                        </div>
+                                        <div class="process-content text-left">
+                                            <h5>Planning Idea</h5>
+                                            <p>Holisticly architect sustainable meta-services for process-centric core competencies. Enthusiastically re-engineer best-of-breed outsourcing.</p>
+                                        </div>
+                                    </div>
+                                    <svg x="0px" y="0px" width="312px" height="130px">
+                                        <path class="dashed1" fill="none" stroke="rgb(95, 93, 93)" stroke-width="1" stroke-dasharray="1300" stroke-dashoffset="0" d="M3.121,2.028 C3.121,2.028 1.003,124.928 99.352,81.226 C99.352,81.226 272.319,21.200 310.000,127.338"></path>
+                                        <path class="dashed2" fill="none" stroke="#ffffff" stroke-width="2" stroke-dasharray="6" stroke-dashoffset="1300" d="M3.121,2.028 C3.121,2.028 1.003,124.928 99.352,81.226 C99.352,81.226 272.319,21.200 310.000,127.338 "></path>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="process-single-item">
+                                <div class="process-icon-item right-shape">
+                                    <div class="d-flex align-items-center">
+                                        <div class="process-icon ml-4">
+                                            <i class="fas fa-puzzle-piece color-primary"></i>
+                                        </div>
+                                        <div class="process-content text-right">
+                                            <h5>Developed Final Product</h5>
+                                            <p>Monotonectally harness holistic web-readiness after multimedia based catalysts for change. Completely brand front-end systems before visionary.</p>
+                                        </div>
+                                    </div>
+                                    <svg x="0px" y="0px" width="312px" height="130px">
+                                        <path class="dashed1" fill="none" stroke="rgb(95, 93, 93)" stroke-width="1" stroke-dasharray="1300" stroke-dashoffset="0" d="M311.000,0.997 C311.000,0.997 313.123,123.592 214.535,79.996 C214.535,79.996 41.149,20.122 3.377,125.996"></path>
+                                        <path class="dashed2" fill="none" stroke="#ffffff" stroke-width="2" stroke-dasharray="6" stroke-dashoffset="1300" d="M311.000,0.997 C311.000,0.997 313.123,123.592 214.535,79.996 C214.535,79.996 41.149,20.122 3.377,125.996"></path>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="process-single-item">
+                                <div class="process-icon-item left-shape mb-0">
+                                    <div class="d-flex align-items-center">
+                                        <div class="process-icon mr-4">
+                                            <i class="fas fa-truck color-primary"></i>
+                                        </div>
+                                        <div class="process-content text-left">
+                                            <h5>Deliver to Customer</h5>
+                                            <p>Monotonectally plagiarize synergistic e-business for stand-alone communities. Professionally enhance visionary manufactured products progressive.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6">
+                        <div class="img-wrap">
+                            <img src="_webSiteAssets/assets/img/app-mobile-image-3.png" alt="features" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!--work process end-->
+
+        <!--counter section start-->
+        <section class="counter-section gradient-bg ptb-40">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-md-6 col-lg-3">
+                        <div class="text-white p-2 count-data text-center my-3">
+                            <span class="fas fa-users icon-size-lg mb-2"></span>
+                            <h3 class="count-number mb-1 text-white font-weight-bolder">21023</h3>
+                            <span>Customers</span>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-3">
+                        <div class="text-white p-2 count-data text-center my-3">
+                            <span class="fas fa-cloud-download-alt icon-size-lg mb-2"></span>
+                            <h3 class="count-number mb-1 text-white font-weight-bolder">44023</h3>
+                            <span>Downloads</span>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-3">
+                        <div class="text-white p-2 count-data text-center my-3">
+                            <span class="fas fa-smile icon-size-lg mb-2"></span>
+                            <h3 class="count-number mb-1 text-white font-weight-bolder">35023</h3>
+                            <span>Satisfied</span>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-3">
+                        <div class="text-white p-2 count-data text-center my-3">
+                            <span class="fas fa-mug-hot icon-size-lg mb-2"></span>
+                            <h3 class="count-number mb-1 text-white font-weight-bolder">2323</h3>
+                            <span>Cup of Coffee</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--counter section end-->
+        <?php /**/ ?>
+
+        <!--pricing section start-->
+        <section id="pricing" class="pricing-section ptb-100 gray-light-bg">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading text-center mb-4">
+                            <h2>Nos Tarifs</h2>
+                            <p>
+                                Une solution de gestion immobilière professionnelle, accessible à un tarif abordable en location. Profitez de compétences clés centrées sur vos besoins, pour une utilisation flexible et efficace, adaptée à la gestion moderne.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center justify-content-md-center justify-content-center">
+                    <div class="col-12">
+                        <div class="d-flex justify-content-center text-center">
+                            <label class="pricing-switch-wrap">
+                                <span class="beforeinput year-switch text-success">
+                                Mois
+                            </span>
+                                <input type="checkbox" class="d-none" id="js-contcheckbox">
+                                <span class="switch-icon"></span>
+                                <span class="afterinput year-switch">
+                                    Année
+                            </span>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-8">
+                        <div class="text-center bg-white single-pricing-pack mt-4">
+                            <div class="price-img pt-4">
+                                <!-- <img src="_webSiteAssets/assets/img/priching-img-1.png" alt="price" width="120" class="img-fluid"> -->
+
+                                <i class="fa fa-star fa-5x text-warning"></i>
+                                <i class="fa fa-star fa-5x "></i>
+                                <i class="fa fa-star fa-5x "></i>
+                            </div>
+                            <div class="py-4 border-0 pricing-header">
+                                <div class="price text-center mb-0 monthly-price color-secondary" style="display: block;">15 000<span>F CFA</span> <br><small>Par Mois</small></div>
+                                <div class="price text-center mb-0 yearly-price color-secondary" style="display: none;">150 000<span>F CFA</span> <br><small>Par Mois</small></div>
+                            </div>
+                            <div class="price-name">
+                                <h5 class="mb-0">Pack en Local</h5>
+                            </div>
+                            <div class="pricing-content">
+                                <ul class="list-unstyled mb-4 pricing-feature-list">
+                                    <li><span>Utilisez le logiciel sur votre réseau local sans besoin d'internet</span>. Accessible uniquement sur les appareils connectés à votre réseau, idéal pour une gestion en interne sécurisée.
+                                    </li>
+                                    <li>Utilisation <span class="text-primary">Hors ligne</span></li>
+                                    <li>Création de contrats <span>illimité</span></li>
+                                    <li>Mises à jour <span>régulière</span></li>
+                                    <li class="text-deem">24/7 phone support</li>
+                                </ul>
+                                <a href="https://wa.me/2250565799963?text=Bonjour, je suis intéresé par le *Pack en Local WIMMO, 15.000 F CFA* / Mois" class="btn btn-outline-brand-02 btn-rounded mb-3" target="_blank">Commandez maintenant</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-8">
+                        <div class="popular-price bg-white text-center single-pricing-pack mt-4">
+                            <div class="price-img pt-4">
+                                <!-- <img src="_webSiteAssets/assets/img/priching-img-2.png" alt="price" width="120" class="img-fluid"> -->
+
+                                <i class="fa fa-star fa-5x text-warning"></i>
+                                <i class="fa fa-star fa-5x text-warning"></i>
+                                <i class="fa fa-star fa-5x "></i>
+                            </div>
+                            <div class="py-4 border-0 pricing-header">
+                                <div class="price text-center mb-0 monthly-price color-secondary" style="display: block;">25 000<span>F CFA</span> <br><small>Par Mois</small></div>
+                                <div class="price text-center mb-0 yearly-price color-secondary" style="display: none;">250 000<span>F CFA</span> <br><small>Par Mois</small></div>
+                            </div>
+                            <div class="price-name">
+                                <h5 class="mb-0">Pack en Ligne</h5>
+                            </div>
+                            <div class="pricing-content">
+                                <ul class="list-unstyled mb-4 pricing-feature-list">
+                                    <li><span>Accédez au logiciel de n'importe où dans le monde grâce à une connexion internet</span>, que ce soit sur PC, tablette ou smartphone. Idéal pour une gestion flexible et mobile.
+                                    </li>
+                                    <li>Utilisation <span class="text-primary">En ligne</span></li>
+                                    <li>Création de contrats <span>illimité</span></li>
+                                    <li>Mises à jour <span>régulière</span></li>
+                                    <li class="text-deem">24/7 phone support</li>
+                                </ul>
+                                <a href="https://wa.me/2250565799963?text=Bonjour, je suis intéresé par le *Pack en Ligne WIMMO, 25.000 F CFA* / Mois" class="btn btn-brand-02 btn-rounded mb-3" target="_blank">Commandez maintenant</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-8">
+                        <div class="text-center bg-white single-pricing-pack mt-4">
+                            <div class="price-img pt-4">
+                                <!-- <img src="_webSiteAssets/assets/img/priching-img-3.png" alt="price" width="120" class="img-fluid"> -->
+                                <i class="fa fa-star fa-5x text-warning"></i>
+                                <i class="fa fa-star fa-5x text-warning"></i>
+                                <i class="fa fa-star fa-5x text-warning"></i>
+                            </div>
+                            <div class="py-4 border-0 pricing-header">
+                                <div class="price text-center mb-0 monthly-price color-secondary" style="display: block;">2 800 000<span>F CFA</span></div>
+                                <div class="price text-center mb-0 yearly-price color-secondary" style="display: none;">2 800 000<span>F CFA</span></div>
+                            </div>
+                            <div class="price-name">
+                                <h5 class="mb-0">Licence à vie</h5>
+                            </div>
+                            <div class="pricing-content">
+                                <ul class="list-unstyled mb-4 pricing-feature-list">
+                                    <li><span>Profitez d'un accès illimité à vie</span>, avec la flexibilité d'utiliser le logiciel en ligne* ou hors ligne selon vos besoins. Possibilité de paiement échelonné en 3 mois (60%, 20% et 20%).
+                                    </li>
+                                    <li>Utilisation <span class="text-primary">En ligne/Hors ligne</span></li>
+                                    <li>Création de contrats <span>illimité</span></li>
+                                    <li>Mises à jour <span>régulière</span></li>
+                                    <li class="text-deem">24/7 phone support</li>
+                                </ul>
+                                <a href="https://wa.me/2250565799963?text=Bonjour, je suis intéresé par la *Licence à Vie WIMMO, 2.800.000 F CFA* payable en 3 versements maximum." class="btn btn-outline-brand-02 btn-rounded mb-3" target="_blank">Commandez maintenant</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="support-cta text-center mt-5">
+                            <h5 class="mb-1"><span class="ti-headphone-alt color-primary mr-3"></span>Vous avez un petit budget ? Appelez seulement, on va s'entendre.
+                            </h5>
+                            <!-- <p>Have some questions? <a href="#">Chat with us now</a>, or <a href="#">send us an email</a> to
+                                get in touch.</p> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--pricing section end-->
+
+        <?php /** ?>
+        <!--faq or accordion section start-->
+        <section id="faq" class="ptb-100 ">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading text-center mb-5">
+                            <h2>Questions Fréquentes</h2>
+                            <p>Efficiently productivate reliable paradigms before ubiquitous models. Continually utilize frictionless expertise whereas tactical relationships. Still have questions? Contact us</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center">
+                    <div class="col-md-12 col-lg-6 mb-5 mb-md-5 mb-sm-5 mb-lg-0">
+                        <div class="img-wrap">
+                            <img src="_webSiteAssets/assets/img/health.png" alt="download" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-6">
+                        <div id="accordion" class="accordion faq-wrap">
+                            <div class="card mb-3">
+                                <a class="card-header " data-toggle="collapse" href="#collapse0" aria-expanded="false">
+                                    <h6 class="mb-0 d-inline-block">Which license do I need?</h6>
+                                </a>
+                                <div id="collapse0" class="collapse show" data-parent="#accordion" style="">
+                                    <div class="card-body white-bg">
+                                        <p>Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&#x27;t heard of them accusamus labore sustainable VHS. </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card my-3">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapse1" aria-expanded="false">
+                                    <h6 class="mb-0 d-inline-block">How do I get access to a theme?</h6>
+                                </a>
+                                <div id="collapse1" class="collapse " data-parent="#accordion" style="">
+                                    <div class="card-body white-bg">
+                                        <p>Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&#x27;t heard of them accusamus. Seamlessly optimize empowered testing procedures before revolutionary processes. Progressively facilitate client-centered technologies whereas extensive users. Authoritatively. </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card my-3">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapse2" aria-expanded="false">
+                                    <h6 class="mb-0 d-inline-block">How do I see previous orders?</h6>
+                                </a>
+                                <div id="collapse2" class="collapse " data-parent="#accordion" style="">
+                                    <div class="card-body white-bg">
+                                        <p>Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&#x27;t heard of them accusamus labore sustainable VHS. </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card mt-3">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapse3" aria-expanded="false">
+                                    <h6 class="mb-0 d-inline-block">Support related issues for the template?</h6>
+                                </a>
+                                <div id="collapse3" class="collapse " data-parent="#accordion" style="">
+                                    <div class="card-body white-bg">
+                                        <p>Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table. Professionally embrace customer directed value vis-a-vis high-quality portals. Quickly underwhelm B2C users with maintainable benefits. </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--faq or accordion section end-->
+
+        <!--testimonial section start-->
+        <section class="position-relative gradient-bg ptb-100">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-lg-5 mb-4 mb-sm-4 mb-md-0 mb-lg-0">
+                        <div class="testimonial-heading text-white">
+                            <h2 class="text-white">What Our Client Say About Apdash</h2>
+                            <p>Collaboratively actualize excellent schemas without effective models. Synergistically engineer functionalized applications rather than backend e-commerce.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6">
+                        <div class="testimonial-content-wrap">
+                            <div class="owl-carousel owl-theme client-testimonial-1 dot-indicator testimonial-shape">
+                                <div class="item">
+                                    <div class="testimonial-quote-wrap">
+                                        <div class="media author-info mb-3">
+                                            <div class="author-img mr-3">
+                                                <img src="_webSiteAssets/assets/img/client/1.jpg" alt="client" class="img-fluid">
+                                            </div>
+                                            <div class="media-body text-white">
+                                                <h5 class="mb-0 text-white">John Charles</h5>
+                                                <span>Head Of Admin</span>
+                                            </div>
+                                            <i class="fas fa-quote-right text-white"></i>
+                                        </div>
+                                        <div class="client-say text-white">
+                                            <p>Interactively optimize fully researched expertise vis-a-vis plug-and-play relationships. Intrinsicly develop viral core competencies for fully tested customer service. Enthusiastically create next-generation growth strategies and.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="testimonial-quote-wrap">
+                                        <div class="media author-info mb-3">
+                                            <div class="author-img mr-3">
+                                                <img src="_webSiteAssets/assets/img/client/2.jpg" alt="client" class="img-fluid">
+                                            </div>
+                                            <div class="media-body text-white">
+                                                <h5 class="mb-0 text-white">Arabella Ora</h5>
+                                                <span>HR Manager</span>
+                                            </div>
+                                            <i class="fas fa-quote-right text-white"></i>
+                                        </div>
+                                        <div class="client-say text-white">
+                                            <p>Rapidiously develop user friendly growth strategies after extensive initiatives. Conveniently grow innovative benefits through fully tested deliverables. Rapidiously utilize focused platforms through end-to-end schemas.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="testimonial-quote-wrap">
+                                        <div class="media author-info mb-3">
+                                            <div class="author-img mr-3">
+                                                <img src="_webSiteAssets/assets/img/client/3.jpg" alt="client" class="img-fluid">
+                                            </div>
+                                            <div class="media-body text-white">
+                                                <h5 class="mb-0 text-white">Jeremy Jere</h5>
+                                                <span>Team Leader</span>
+                                            </div>
+                                            <i class="fas fa-quote-right text-white"></i>
+                                        </div>
+                                        <div class="client-say text-white">
+                                            <p>Objectively synthesize client-centered e-tailers for maintainable channels. Holisticly administrate customer directed vortals whereas tactical functionalities. Energistically monetize reliable imperatives through client-centric.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="testimonial-quote-wrap">
+                                        <div class="media author-info mb-3">
+                                            <div class="author-img mr-3">
+                                                <img src="_webSiteAssets/assets/img/client/4.jpg" alt="client" class="img-fluid">
+                                            </div>
+                                            <div class="media-body text-white">
+                                                <h5 class="mb-0 text-white">John Charles</h5>
+                                                <span>Marketing Head</span>
+                                            </div>
+                                            <i class="fas fa-quote-right text-white"></i>
+                                        </div>
+                                        <div class="client-say text-white">
+                                            <p>Enthusiastically innovate B2C data without clicks-and-mortar convergence. Monotonectally deliver compelling testing procedures vis-a-vis B2B testing procedures. Competently evisculate integrated resources whereas global.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--testimonial section end-->
+
+        <!--our team section start-->
+        <section class="team-two-section ptb-100 gray-light-bg">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading text-center">
+                            <h2>Our Team Members</h2>
+                            <p>Authoritatively mesh intuitive paradigms vis-a-vis goal-oriented partnerships. Continually extend open-source outside the box thinking after focused catalysts.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-lg-3">
+                        <div class="single-team-wrap bg-white text-center border rounded p-4 mt-4">
+                            <img src="_webSiteAssets/assets/img/team/team-member-1.png" alt="team image" width="120" class="img-fluid m-auto pb-4">
+                            <div class="team-content">
+                                <h5 class="mb-0">Richard Ford</h5>
+                                <span>Instructor of Mathematics</span>
+                                <p class="mt-3">Authoritatively engage leading-edge processes tactical capital </p>
+                                <ul class="list-inline social-list-default social-color icon-hover-top-bottom">
+                                    <li class="list-inline-item">
+                                        <a class="facebook" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="twitter" href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="dribbble" href="#" target="_blank"><i class="fab fa-dribbble"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="linkedin" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="single-team-wrap bg-white text-center border rounded p-4 mt-4">
+                            <img src="_webSiteAssets/assets/img/team/team-member-2.png" alt="team image" width="120" class="img-fluid m-auto pb-4">
+                            <div class="team-content">
+                                <h5 class="mb-0">Kely Roy</h5>
+                                <span>Lead Designer</span>
+                                <p class="mt-3">Monotonectally engage sticky collaborative markets synergistically</p>
+                                <ul class="list-inline social-list-default social-color icon-hover-top-bottom">
+                                    <li class="list-inline-item">
+                                        <a class="facebook" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="twitter" href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="dribbble" href="#" target="_blank"><i class="fab fa-dribbble"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="linkedin" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="single-team-wrap bg-white text-center border rounded p-4 mt-4">
+                            <img src="_webSiteAssets/assets/img/team/team-member-3.png" alt="team image" width="120" class="img-fluid m-auto pb-4">
+                            <div class="team-content">
+                                <h5 class="mb-0">Gerald Nichols</h5>
+                                <span>Managing Director</span>
+                                <p class="mt-3">Assertively procrastinate standardized whereas technically sound</p>
+                                <ul class="list-inline social-list-default social-color icon-hover-top-bottom">
+                                    <li class="list-inline-item">
+                                        <a class="facebook" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="twitter" href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="dribbble" href="#" target="_blank"><i class="fab fa-dribbble"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="linkedin" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="single-team-wrap bg-white text-center border rounded p-4 mt-4">
+                            <img src="_webSiteAssets/assets/img/team/team-member-4.png" alt="team image" width="120" class="img-fluid m-auto pb-4">
+                            <div class="team-content">
+                                <h5 class="mb-0">Gerald Nichols</h5>
+                                <span>Team Manager</span>
+                                <p class="mt-3">Synergistically actualize out the-box technologies before parallel process</p>
+                                <ul class="list-inline social-list-default social-color icon-hover-top-bottom">
+                                    <li class="list-inline-item">
+                                        <a class="facebook" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="twitter" href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="dribbble" href="#" target="_blank"><i class="fab fa-dribbble"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="linkedin" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!--our team section end-->
+
+        <!--our blog section start-->
+        <section class="our-blog-section ptb-100 gray-light-bg">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading text-center">
+                            <h2>Our Latest News</h2>
+                            <p>
+                                Efficiently matrix robust total linkage after market positioning bandwidth. Holisticly restore B2B materials rather than brand flexible paradigms vis-a-vis mission-critical e-commerce.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="single-blog-card card border-0 shadow-sm mt-4">
+                            <div class="blog-img position-relative">
+                                <img src="_webSiteAssets/assets/img/blog/1.jpg" class="card-img-top" alt="blog">
+                                <div class="meta-date">
+                                    <strong>24</strong>
+                                    <small>Apr</small>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <div class="post-meta mb-2">
+                                    <ul class="list-inline meta-list">
+                                        <li class="list-inline-item"><i class="fas fa-heart mr-2"></i><span>45</span>
+                                            Comments
+                                        </li>
+                                        <li class="list-inline-item"><i class="fas fa-share-alt mr-2"></i><span>10</span>
+                                            Share
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h3 class="h5 mb-2 card-title"><a href="#">Appropriately productize fully</a></h3>
+                                <p class="card-text">Some quick example text to build on the card title and make up the
+                                    bulk.</p>
+                                <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="single-blog-card card border-0 shadow-sm mt-4">
+                            <div class="blog-img position-relative">
+                                <img src="_webSiteAssets/assets/img/blog/2.jpg" class="card-img-top" alt="blog">
+                                <div class="meta-date">
+                                    <strong>24</strong>
+                                    <small>Apr</small>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <div class="post-meta mb-2">
+                                    <ul class="list-inline meta-list">
+                                        <li class="list-inline-item"><i class="fas fa-heart mr-2"></i><span>45</span>
+                                            Comments
+                                        </li>
+                                        <li class="list-inline-item"><i class="fas fa-share-alt mr-2"></i><span>10</span>
+                                            Share
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h3 class="h5 mb-2 card-title"><a href="#">Quickly formulate backend</a></h3>
+                                <p class="card-text">Synergistically engage effective ROI after customer directed
+                                    partnerships.</p>
+                                <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="single-blog-card card border-0 shadow-sm mt-4">
+                            <div class="blog-img position-relative">
+                                <img src="_webSiteAssets/assets/img/blog/3.jpg" class="card-img-top" alt="blog">
+                                <div class="meta-date">
+                                    <strong>24</strong>
+                                    <small>Apr</small>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <div class="post-meta mb-2">
+                                    <ul class="list-inline meta-list">
+                                        <li class="list-inline-item"><i class="fas fa-heart mr-2"></i><span>45</span>
+                                            Comments
+                                        </li>
+                                        <li class="list-inline-item"><i class="fas fa-share-alt mr-2"></i><span>10</span>
+                                            Share
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h3 class="h5 mb-2 card-title"><a href="#">Objectively extend extensive</a></h3>
+                                <p class="card-text">Holisticly mesh open-source leadership rather than proactive
+                                    users. </p>
+                                <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--our blog section end-->
+
+        <?php /**/ ?>
+
+        <!--our contact section start-->
+        <section id="contact" class="contact-us-section ptb-100">
+            <div class="container">
+                <div class="row justify-content-around">
+                    <div class="col-12 pb-3 message-box d-none">
+                        <div class="alert alert-danger"></div>
+                    </div>
+                    <div class="col-md-12 col-lg-12">
+                        <div class="contact-us-content">
+                            <h2>WIMMO Le logiciel qui s'adapte à tout les budget,</h2>
+                            <p class="lead">Appelez-nous à tout moment, nous répondons à toutes vos demandes dans les minutes qui suivent...</p>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="contact-us-content">
+                            <hr class="my-5">
+
+                            <ul class="contact-info-list">
+                                <li class="d-flex pb-3">
+                                    <div class="contact-icon mr-3">
+                                        <span class="fas fa-location-arrow color-primary rounded-circle p-3"></span>
+                                    </div>
+                                    <div class="contact-text">
+                                        <h5 class="mb-1">Adresse</h5>
+                                        <p>
+                                            Cocody Angré, Abidjan, Côte d'Ivoire
+                                        </p>
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="contact-us-content">
+                            <hr class="my-5">
+
+                            <ul class="contact-info-list">
+                                <li class="d-flex pb-3">
+                                    <div class="contact-icon mr-3">
+                                        <span class="fab fa-whatsapp color-primary rounded-circle p-3"></span>
+                                    </div>
+                                    <div class="contact-text">
+                                        <h5 class="mb-1">WhatsApp</h5>
+                                        <p>
+                                            (+225) 05 657 999 63
+                                        </p>
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="contact-us-content">
+                            <hr class="my-5">
+
+                            <ul class="contact-info-list">
+                                <li class="d-flex pb-3">
+                                    <div class="contact-icon mr-3">
+                                        <span class="fas fa-envelope color-primary rounded-circle p-3"></span>
+                                    </div>
+                                    <div class="contact-text">
+                                        <h5 class="mb-1">Adresse Email</h5>
+                                        <p>
+                                            info@wimmo-ci.com
+                                        </p>
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--our contact section end-->
+        <!--our team section start-->
+        <section class="client-section  ptb-100">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-8">
+                        <div class="section-heading text-center mb-5">
+                            <h2>Ils Nous Font Confiance</h2>
+                            <p>
+                                Des professionnels de l’immobilier qui ont choisi WIMMO pour simplifier et optimiser leur gestion immobilière. Découvrez pourquoi nos clients nous font confiance pour une solution efficace, fiable et adaptée à leurs besoins spécifiques.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center">
+                    <div class="col-md-12">
+                        <div class="owl-carousel owl-theme clients-carousel dot-indicator">
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/1.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/2.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/3.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/4.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/5.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/6.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/7.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/8.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/9.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/10.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/11.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/12.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/clients-logo-06.png" alt="client logo" class="customer-logo">
+                            </div>
+                            <div class="item single-customer">
+                                <img src="_webSiteAssets/assets/img/customers/clients-logo-08.png" alt="client logo" class="customer-logo">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--our team section end-->
+
     </div>
-  </header><!-- End Header -->
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
+    <!--footer section start-->
+    <!--when you want to remove subscribe newsletter container then you should remove .footer-with-newsletter class-->
+    <footer class="footer-1 gradient-bg ptb-60 footer-with-newsletter">
+        <!--subscribe newsletter start-->
+        <div class="container">
+            <div class="row newsletter-wrap primary-bg rounded shadow-lg p-5">
+                <div class="col-md-12 col-lg-12 mb-4 mb-md-0 mb-sm-12 mb-lg-0">
+                    <div class="newsletter-content text-white" align="center">
+                        <h3 class="mb-0 text-white text-uppercase">Testez Le Logiciel WIMMO Gratuitement</h3>
+                        <!-- <p class="mb-0">We’re a team of non-cynics who truly care for our work.</p> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--subscribe newsletter end-->
 
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">GESTION IMMOBILIERE</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">Gérer vos logements n'a jamais été aussi facile</h2>
-          <div data-aos="fade-up" data-aos-delay="800">
-            <a href="#about" class="btn-get-started scrollto">c'est quoi WIMMO ?</a>
-          </div>
+        <?php /** ?>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-lg-4 mb-4 mb-md-4 mb-sm-4 mb-lg-0">
+                        <a href="#" class="navbar-brand mb-2">
+                            <img src="_webSiteAssets/assets/img/logoSite2.png" alt="logo" class="img-fluid">
+                        </a>
+                        <br>
+                        <p>WIMMO est un logiciel de gestion immobilière conçu pour répondre aux besoins spécifiques des agences, propriétaires, et gestionnaires de biens en Afrique.</p>
+                        <div class="list-inline social-list-default background-color social-hover-2 mt-2">
+                            <li class="list-inline-item"><a class="facebook" href="#"><i class="fab fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a class="youtube" href="https://www.youtube.com/channel/UCiY3zoP-aFPweYFJGwAM5yw" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-8">
+                        <div class="row mt-0">
+                            <div class="col-sm-6 col-md-3 col-lg-3 mb-4 mb-sm-4 mb-md-0 mb-lg-0">
+                                <h6 class="text-uppercase">Resources</h6>
+                                <ul>
+                                    <li>
+                                        <a href="#">Help</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Events</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Open source</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Documentation</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-6 col-md-3 col-lg-3 mb-4 mb-sm-4 mb-md-0 mb-lg-0">
+                                <h6 class="text-uppercase">Le Produit</h6>
+                                <ul>
+                                    <li>
+                                        <a href="#">Pricing</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">AI Studio</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Performance</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-6 col-md-3 col-lg-3 mb-4 mb-sm-4 mb-md-0 mb-lg-0">
+                                <h6 class="text-uppercase">Company</h6>
+                                <ul>
+                                    <li>
+                                        <a href="#">About Us</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Careers</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Customers</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Community</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Our Team</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-6 col-md-3 col-lg-3">
+                                <h6 class="text-uppercase">Support</h6>
+                                <ul>
+                                    <li>
+                                        <a href="#">FAQ</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Sells</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Contact Support</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Network Status</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Product Services</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--end of container-->
+        <?php /**/ ?>
+    </footer>
+    <!--footer bottom copyright start-->
+    <div class="footer-bottom py-3 gray-light-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-lg-12">
+                    <div class="copyright-wrap small-text">
+                        <p class="mb-0">
+                            <a class="facebook" href="https://web.facebook.com/wimmo.software" target="_blank"><i class="fab fa-facebook"></i></a>
+                            <a class="youtube" href="https://www.youtube.com/channel/UCiY3zoP-aFPweYFJGwAM5yw" target="_blank"><i class="fab fa-youtube"></i></a>
+
+                            &copy; 2020 Copyright © WIMMO-MultiServces. Tous les droits sont réservés. Créé par <a href="https://web.facebook.com/WimmoMultiServices" target="_blank"></a>WIMMO-MultiServces
+                        </p>
+                    </div>
+                </div>
+                <!-- <div class="col-md-6 col-lg-5">
+                    <div class="terms-policy-wrap text-lg-right text-md-right text-left">
+                        <ul class="list-inline">
+                            <li class="list-inline-item"><a class="small-text" href="#">Terms</a></li>
+                            <li class="list-inline-item"><a class="small-text" href="#">Security</a></li>
+                            <li class="list-inline-item"><a class="small-text" href="#">Privacy Policy</a></li>
+                        </ul>
+                    </div>
+                </div> -->
+            </div>
         </div>
-        <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
-          <img src="_webSiteAssets/assets/img/hero-img.png" class="img-fluid animated" alt="">
-        </div>
-      </div>
     </div>
-
-  </section><!-- End Hero -->
-
-  <main id="main">
-
-    <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients clients">
-      <div class="container">
-
-        <div class="row">
-
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="_webSiteAssets/assets/img/clients/sciKansourouba.png" class="img-fluid" alt="" data-aos="zoom-in" style="width: 70%;">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="_webSiteAssets/assets/img/clients/sciKansourouba.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200" style="width: 70%;">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="_webSiteAssets/assets/img/clients/sciKansourouba.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400" style="width: 70%;">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Clients Section -->
-
-
-    <?php /**/ ?>
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials section-bg">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Les nouveautés</h2>
-          <p>Découvrez en avant première les mises à jour les plus recentes de WIMMO</p>
-        </div>
-
-        <div class="owl-carousel testimonials-carousel" data-aos="fade-up" data-aos-delay="200">
-
-          <div class="testimonial-wrap">
-            <div class="testimonial-item">
-              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
-              <h3>L'option <span class="text-info">Superviseur</span></h3>
-              <h4>Nouveau !</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Cette option permet au chef d'agence, au directeur ou à une personne quelconque chargée d'assuré un suivi sur les encaissements de loyer de recevoir par sms une notification à chaque paiement de loyer
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
-          <div class="testimonial-wrap">
-            <div class="testimonial-item">
-              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
-              <h3>L'option <span class="text-primary">Alerte Versement</span></h3>
-              <h4>Nouveau !</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Cette option permet de notifier par sms le locataire lorsqu'il fait un versement de loyer
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
-          <div class="testimonial-wrap">
-            <div class="testimonial-item">
-              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
-              <h3>L'option <span class="text-info">Alerte Loyer</span></h3>
-              <h4>Nouveau !</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Grâce à cette option alertez vos locataires à chaque nouvelle campagne de recouvrement 
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Testimonials Section -->
-    <?php /**/ ?>
-
-
-    <!-- ======= About Us Section ======= -->
-    <section id="about" class="about">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>C'est quoi <strong>WIMMO</strong> ?</h2>
-        </div>
-
-        <div class="row content">
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">
-            <div style="text-align: justify;">
-              <p><strong>WIMMO</strong> est un logiciel de gestion immobilière (gestion locative) qui vous propose plusieurs outils simple pour la gestion de vos biens à travers une plateforme facile à utiliser, ergonomique et conviviale. 
-            
-              <p>Profitez de fonctionnalités adaptées qui répondent à vos besoins pour la gestion de vos logements et vos locataires en un seul endroit et super facilement, en partant de la gestion des contrats de bail à l’état des lieux, les rappels de loyers, la génération des quittances de loyer, les historiques financiers, etc….</p>
-            </div>
-          </div>
-
-          <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <p>Conçu pour repondre à vos besoins le logiciel <strong>WIMMO</strong> peut être personnalisé à souhait pour vous afin de mieux vous servir. </p>
-            <p>
-              Les cibles du logiciel sont notamment :
-              <ul>
-                <li><i class="ri-check-double-line"></i> Les entreprises immobilières.</li>
-                <li><i class="ri-check-double-line"></i> Les agents immobiliers</li>
-                <li><i class="ri-check-double-line"></i> Les propriétaires de logements ou administrateur de biens immobiliers</li>
-                <li><i class="ri-check-double-line"></i> Les particuliers</li>
-              </ul>
-            </p>
-
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Us Section -->
-
-    <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts">
-      <div class="container">
-
-        <div class="row">
-          <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-xl-start" data-aos="fade-right" data-aos-delay="150">
-            <img src="_webSiteAssets/assets/img/counts-img.svg" alt="" class="img-fluid">
-          </div>
-
-          <div class="col-xl-7 d-flex align-items-stretch pt-4 pt-xl-0" data-aos="fade-left" data-aos-delay="300">
-            <div class="content d-flex flex-column justify-content-center">
-              <div class="row">
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="icofont-users"></i>
-                    <span data-toggle="up">Locataires</span>
-                    <p>Gérez facilement vos locataires en un seul point avec l'<strong>aperçu des arriérés</strong>, ...</p>
-                  </div>
-                </div>
-
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="icofont-document-folder"></i>
-                    <span data-toggle="up">Quittances</span>
-                    <p><strong>Imprimez et réimprimez vos quittances de loyers</strong> de manière professionnelle</p>
-                  </div>
-                </div>
-
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="icofont-user"></i>
-                    <span data-toggle="up">Propriétaires </span>
-                    <p>Gérez les biens d'un ou plusieurs propriétaires</p>
-                  </div>
-                </div>
-                
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="icofont-eye"></i>
-                    <span data-toggle="up">Surveillance </span>
-                    <p>Superviseur, <strong>recevez des alertes par SMS / Whatsapp lors des encaissements de loyers avec le solde de la journée</strong> grâce à la fonctionnalitée <strong class="text-info">Superviseur</strong></p>
-                  </div>
-                </div>
-
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="icofont-clock-time"></i>
-                    <span data-toggle="up">Temps</span>
-                    <p>Gagnez beaucoup de temps avec <strong>les alertes envoyés automatiquement par sms</strong>, ...</p>
-                  </div>
-                </div>
-
-              </div>
-            </div><!-- End .content-->
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Counts Section -->
-
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Les modules</h2>
-          <p>Conformément au fonctionnement général d'un logiciel de gestion immobilière (gestion locative)</p>
-        </div>
-
-        <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="icofont-users"></i> </div>
-              <h4 class="title"><a href="#">Gestion des locataires & contrats de bail</a></h4>
-              <p class="description" style="text-align: justify;">Encaissement de loyer, aperçu des arriérés, impression de reçu provisoire et de quittance de loyer. Gestion des opérations de cautions, d’avances et de frais annexes à l’entrée et la sortie du locataire...
-              </p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="bx bx-building"></i></div>
-              <h4 class="title"><a href="#">Gestion des biens & logements</a></h4>
-              <p class="description" style="text-align: justify;">Enregistrez vos logements ainsi que leurs documents administratifs. Ayez une vue d’ensemble sur vos logements et leurs occupants. Bilan financier sur un bien donné...</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-              <div class="icon"><i class="bx bx-dollar"></i></div>
-              <h4 class="title"><a href="#">Gestion des finances</a></h4>
-              <p class="description" style="text-align: justify;">Gérez les historiques de toutes les opérations financières (encaissements de loyers, dépenses et apports financiers) avec la possibilité d'exporté les données vers excel...</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
-              <div class="icon"><i class="icofont-comment text-warning" style="color:#fffb07 !important;"></i></div>
-              <h4 class="title"><a href="#">Gestion de SMS Pro</a></h4>
-              <p class="description" style="text-align: justify;"> Envoyez des rappels de loyer automatique, des alertes encaissement et bien d'autres à travers le logiciel. Avec l'option superviseur, recevez des notifications sur tous les encaissements de loyer afin de contrôler votre activitée a distance</p>
-            </div>
-          </div>
-        </div>
-
-
-      </div>
-    </section><!-- End Services Section -->
-
-    <!-- ======= Features Section ======= -->
-    <section class="features">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h3>Fonctionnalitées</h3>
-          <p><strong>WIMMO</strong> rend disponibles les options suivantes</p>
-        </div>
-
-        <div class="row" data-aos="fade-up" data-aos-delay="300">
-
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-comment" style="color: #ffbb2c;"></i>
-              <h3><a href="#">Gestion des sms professionnel</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-warning" style="color: #ffbb2c;"></i>
-              <h3><a href="#">Envoi d'alertes au superviseur par sms</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-dollar" style="color: #ffbb2c;"></i>
-              <h3><a href="#">Gestion des finances</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-dollar" style="color: #11dbcf;"></i>
-              <h3><a href="#">Gestion de compte caution, avance et frais annexes</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-sale-discount"></i>
-              <h3><a href="#">Gestion des apports et des dépenses</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up" style="color: #5578ff;"></i>
-              <h3><a href="#">Aperçu des arriérés du locataire lors des encaissements</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up" style="color: #11dbcf;"></i>
-              <h3><a href="#">Prise en charge des paiements de loyer à l’avance</a></h3>
-            </div>
-          </div>
-
-
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-store-line" style="color: #5578ff;"></i>
-              <h3><a href="#">Gestion des locataires</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
-            <div class="icon-box">
-              <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
-              <h3><a href="#">Gestion des contrats de bail</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
-              <h3><a href="#">Gestion de l’état des lieux</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
-              <h3><a href="#">Gestion des quittances de loyer</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up"></i>
-              <h3><a href="#">Création de campagnes de recouvrement de loyer</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up" style="color: #ffbb2c;"></i>
-              <h3><a href="#">Sitituation des logements et des locataires</a></h3>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-            <div class="icon-box">
-              <i class="icofont-user" style="color: #11dbcf;"></i>
-              <h3><a href="#">Gestion des propriétaires et leurs biens</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-papers" style="color: #ffbb2c;"></i>
-              <h3><a href="#">Gestion des documents administratifs</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up"></i>
-              <h3><a href="#">Gestion des utilisateurs (Création de plusieurs comptes utilisateurs)</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up"></i>
-              <h3><a href="#">Gestion des groupes utilisateurs (Contrôlez les accès de chaque utilisateur)</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up"></i>
-              <h3><a href="#">Prise en charge de la mise en attente des contrats de bail avant leurs mises en production dans le système</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up"></i>
-              <h3><a href="#">Prise en charge de la modification du prix de loyer</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up"></i>
-              <h3><a href="#">Impression de catalogue de logement</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up" style="color: #11dbcf;"></i>
-              <h3><a href="#">Exportation & Impression des documents en PDF et MS Excel</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up" style="color: #ffbb2c;"></i>
-              <h3><a href="#">Prise en charge de la fonction Mono et Multi-utilisateurs</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up"></i>
-              <h3><a href="#">Prise en charge de la gestion des niveaux d’accès</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icofont-thumbs-up" style="color: #ffbb2c;"></i>
-              <h3><a href="#">Archivage électronique des documents physiques (contrat de bail, ...)</a></h3>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Features Section -->
-
-    <?php /** ?>
-    <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>NOTRE PRODUIT</h2>
-          <p>Visualiser notre produit</p>
-        </div>
-
-        <div class="row" data-aos="fade-up" data-aos-delay="200">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">Personnes</li>
-              <li data-filter=".filter-card">Articles</li>
-              <li data-filter=".filter-web">Entrepot/Stock</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="400">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="_webSiteAssets/img/personne1.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <div class="portfolio-links">
-                  <a href="_webSiteAssets/img/personne1.png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="_webSiteAssets/img/stock.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-
-                <div class="portfolio-links">
-                  <a href="_webSiteAssets/img/stock.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="_webSiteAssets/img/personne3.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-
-                <div class="portfolio-links">
-                  <a href="_webSiteAssets/img/personne3.png" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="_webSiteAssets/img/produits1.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-
-                <div class="portfolio-links">
-                  <a href="_webSiteAssets/img/produits1.png" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="_webSiteAssets/img/stock2.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-
-                <div class="portfolio-links">
-                  <a href="_webSiteAssets/img/stock2.png" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="_webSiteAssets/img/personne2.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-
-                <div class="portfolio-links">
-                  <a href="_webSiteAssets/img/personne2.png" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="_webSiteAssets/img/produit2.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-
-                <div class="portfolio-links">
-                  <a href="_webSiteAssets/img/produit2.png" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="_webSiteAssets/img/produit3.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-
-                <div class="portfolio-links">
-                  <a href="_webSiteAssets/img/produit3.png" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="_webSiteAssets/img/stock3.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-
-                <div class="portfolio-links">
-                  <a href="_webSiteAssets/img/stock3.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Portfolio Section -->
-    <?php /**/ ?>
-
-    <?php /** ?>
-    <!-- ======= Team Section ======= -->
-    <section id="team" class="team section-bg">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>EQUIPES</h2>
-          <p>UNE EQUIPE AVEC DES COMPETENCES</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="_webSiteAssets/img/icon-workenbox.png" class="img-fluid" alt="">
-                <div class="social">
-
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>DEVELOPPEURS WEB</h4>
-                <span></span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="_webSiteAssets/img/icon-workenbox.png" class="img-fluid" alt="">
-                <div class="social">
-
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>ADMINISTRATEURS</h4>
-                <span></span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="_webSiteAssets/img/icon-workenbox.png" class="img-fluid" alt="">
-                <div class="social">
-
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>MARKETING</h4>
-                <span></span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="_webSiteAssets/img/icon-workenbox.png" class="img-fluid" alt="">
-                <div class="social">
-
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>CHEF DE PROJET</h4>
-                <span></span>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Team Section -->
-    <?php /**/ ?>
-
-    <?php /** ?>
-    <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Nos prix</h2>
-          <p>Les meilleurs prix du marché.</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6">
-            <div class="box" data-aos="zoom-in-right" data-aos-delay="200">
-              <h2 style="color:  #149cf8;"> Essai</h2>
-              <h4><sup>Fr CFA</sup>0<span> / 01 mois</span></h4>
-              <ul>
-                <li><b>01</b> code d'acces gratuit</li>
-                <li><b>01</b> mois de validité</li>
-                <li class="">Modules illimités</li>
-                <li class="na">services clients</li>
-                <li class="na">maintenances</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="code.html" class="btn-buy">Obtenir un code essai</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-            <div class="box recommended" data-aos="zoom-in" data-aos-delay="100">
-              <h2 style="color: #C0C0C0;"> Basique</h2>
-              <h4><sup>Fr CFA</sup>15.000<span> / 01 mois</span></h4>
-              <ul>
-                <li><b>01</b> code d'acces</li>
-                <li><b>01</b> mois de validité</li>
-                <li>Modules illimités</li>
-                <li>services clients</li>
-                <li>maintenances</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy" data-toggle="modal" data-target="#exampleModalCenter">Souscrire au Pack Basique</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-            <div class="box" data-aos="zoom-in-left" data-aos-delay="200">
-              <h2 style="color: #FFD700;"> Gold</h2>
-              <h4><sup>Fr CFA</sup>150.000<span> / 01 an</span></h4>
-              <ul>
-                <li><b>01</b> code d'acces</li>
-                <li><b>01</b> an de validité</li>
-                <li>Modules illimités</li>
-                <li>services clients</li>
-                <li>maintenances</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy" data-toggle="modal" data-target="#exampleModalCenter">Souscrire au Pack Gold</a>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Pricing Section -->
-    <?php /**/ ?>
-
-    <!-- ======= F.A.Q Section ======= -->
-    <section id="faq" class="faq">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Comment ça marche ?</h2>
-        </div>
-
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-5">
-            <i class="ri-question-line"></i>
-            <h4>Installation - Locale</h4>
-          </div>
-          <div class="col-lg-7">
-            <p style="text-align: justify;">
-              L'<strong>Installation - Locale</strong> consiste à installer le logiciel sur une de vos machine/serveur dédié dans vos locaux afin de vous permettre d'accéder au logiciel à tous moment uniquement dans vos locaux même sans connexion internet. <br>
-              <i style="color:inherit; font-size:inherit;float:inherit;line-height:inherit;padding:inherit;"><code>*</code> Même si cela peut être <code>facultatif</code>, rous recommandons géralement aux utilisateurs de dédié une machine spéciale pour le logiciel protégeant ainsi leurs données de tout. </i>
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-          <div class="col-lg-5">
-            <i class="ri-question-line"></i>
-            <h4>Installation - En ligne</h4>
-          </div>
-          <div class="col-lg-7">
-            <p style="text-align: justify;">
-              L'<strong>Installation - En ligne</strong> consiste à installer le logiciel sur un serveur dédié en ligne afin d'accéder au logiciel de partout dans le monde, que ce soit à la maison, au bureau, que vous soyez en voyage d'affaire, qu'importe l'androit ou, à condition d'avoir la connexion internet.<br>
-              <i style="color:inherit; font-size:inherit;float:inherit;line-height:inherit;padding:inherit;"><code>*NB</code>, Cette installation requière des coûts supplémentaires pour l'achat de l'hébergement du nom de domaine, du certificat de sécurité... </i>
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-          <div class="col-lg-5">
-            <i class="ri-question-line"></i>
-            <h4>Personnalisation</h4>
-          </div>
-          <div class="col-lg-7">
-            <p style="text-align: justify;">
-              La <strong>Personnalisation</strong> consiste à créer et ajouter de nouvelles fonctionnalités au logiciel pour vos besoins spécifiques.<br>
-              -> Exemple : 
-              <ul>
-                <li>Module de gestion des fournisseurs</li>
-                <li>Module d'espace propriétaires en ligne</li>
-                <li>Module d'espace locataire en ligne</li>
-                <li>Application mobile</li>
-                <li>etc...</li>
-              </ul>  
-              <i style="color:inherit; font-size:inherit;float:inherit;line-height:inherit;padding:inherit;"><code>*NB</code>, La personnalisation peut impliquer des coûts supplémentaires en fonction du cahier des charges de ladite personnalisation</i>
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-      </div>
-    </section><!-- End F.A.Q Section -->
-
-    <?php /** ?>
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials section-bg">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Ils nous font confiance</h2>
-          <p>Les utilisateurs de WIMMO s'expriment</p>
-        </div>
-
-        <div class="owl-carousel testimonials-carousel" data-aos="fade-up" data-aos-delay="200">
-
-          <div class="testimonial-wrap">
-            <div class="testimonial-item">
-              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
-              <h3>BIENTOT</h3>
-              <h4>BIENTOT</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                BIENTOT
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
-          <div class="testimonial-wrap">
-            <div class="testimonial-item">
-              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
-              <h3>BIENTOT</h3>
-              <h4>BIENTOT</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                BIENTOT
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
-          <div class="testimonial-wrap">
-            <div class="testimonial-item">
-              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
-              <h3>BIENTOT</h3>
-              <h4>BIENTOT</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                BIENTOT
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
-          <div class="testimonial-wrap">
-            <div class="testimonial-item">
-              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
-              <h3>BIENTOT</h3>
-              <h4>BIENTOT</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                BIENTOT
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
-          <div class="testimonial-wrap">
-            <div class="testimonial-item">
-              <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" class="testimonial-img" alt="">
-              <h3>BIENTOT</h3>
-              <h4>BIENTOT</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                BIENTOT
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Testimonials Section -->
-    <?php /**/ ?>
-
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Contact</h2>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="contact-about">
-              <h3>WIMMO</h3>
-              <p>
-                Gérer vos logements n'a jamais été aussi facile
-              </p>
-              <div class="social-links">
-                <a href="https://web.facebook.com/WAgroupe" target="_blank" class="facebook"><i class="icofont-facebook"></i></a>
-                <a href="https://www.youtube.com/channel/UCq06eMGOX8MltRX2bR1FAIg" target="_blank" class="youtube"><i class="icofont-youtube"></i></a>
-                <a href="#" class="linkedin"><i class="icofont-linkedin"></i></a>
-                <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
-                <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
-            <div class="info">
-              <div>
-                <i class="ri-map-pin-line"></i>
-                <p>Côte d'Ivoire, Cocody Angré</p>
-              </div>
-
-              <div>
-                <i class="ri-mail-send-line"></i>
-                <p>info@wimmo-ci.com</p>
-              </div>
-
-              <div>
-                <i class="ri-phone-line"></i>
-                <p>(+225) 05 657 999 63</p>
-              </div>
-
-            </div>
-          </div>
-
-          <div class="col-lg-5 col-md-12" data-aos="fade-up" data-aos-delay="300" align="center">
-            <img src="_webSiteAssets/assets/img/clients/wimmoLogo.png" width="300px" />
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Contact Section -->
-
-  </main><!-- End #main -->
-
-
-  <?php /** ?>
-  <!-- Modal -->
-  <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered" role="document">
-      <div class="modal-content" style=' background-color:#3498db;'>
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLongTitle">Information</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body" style=' background-color:white;'>
-          <h3>WIMMO</h3>
-          <ul>
-            <li><strong>Categorie</strong>: Plateforme web</li>
-            <li><strong>Entreprise</strong>: TASYR</li>
-            <li><strong> Site de l'entreprise</strong>: <a href="http://tasyr.net/" target=" _blank">tasyr.net</a></li>
-            <li><strong> Contacte de l'entreprise</strong>: (+225) 07-08-84-22-13 </li>
-          </ul>
-
-          <p>
-            Si vous etes interessé par ce pack, veuillez joindre l'entreprise qui se chargera de l'integration dans votre entreprise.
-          </p>
-        </div>
-        <div class="modal-footer" style=' background-color:#3498db;'>
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
-        </div>
-      </div>
+    <!--footer bottom copyright end-->
+    <!--footer section end-->
+    <!--scroll bottom to top button start-->
+    <div class="scroll-top scroll-to-target primary-bg text-white" data-target="html">
+        <span class="fas fa-hand-point-up"></span>
     </div>
-  </div>
-  <!--Section: Live preview-->
-  <!-- Button trigger modal-->
-  <?php /**/ ?>
-
-
-
-
-  <?php /** ?>
-  <!--Modal: modalPush-->
-  <div class="modal fade" id="modalPush" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-notify modal-info" role="document">
-      <!--Content-->
-
-      <form method="POST" action="#">
-        <input type="hidden" name="_token" value="F08pA9fgxO43pAo4nEHHcZtsrvbrdibelQvIX0h5">        <div class="modal-content text-center">
-          <!--Header-->
-          <div class="modal-header d-flex justify-content-center">
-            <img class="avatar avatar-xxl avatar-4by3" src="_webSiteAssets/assets/svg/illustrations/unlock.svg" style="width: 200px;" alt="Image Description">
-          </div>
-          <div class="mb-4">
-            <h1>ETAPE DE VERIFICATION</h1>
-            <p class="heading">Veuillez entrer le code entreprise svp.</p>
-          </div>
-          <!--Body-->
-          <div class="modal-body">
-            <i class="fas fa-bell fa-4x animated rotateIn mb-4"></i>
-            <p>
-              <div class="input-group mb-3">
-                <div class="input-group-prepend">
-                  <span class="input-group-text" id="basic-addon1">Code</span>
-                </div>
-                <input type="text" name='libelle' class="form-control" placeholder="Veuillez saisir le code..." aria-label="Username" aria-describedby="basic-addon1" required>
-              </div>
-            </p>
-
-          </div>
-
-          <!--Footer-->
-          <div class="modal-footer flex-center" style=' background-color:#3498db;'>
-            <input type="submit" class="btn btn-primary" value='Valider'>
-            <a type="button" class="btn btn-secondary" data-dismiss="modal">Annuler</a>
-          </div>
-        </div>
-      </form>
-
-      <!--/.Content-->
-    </div>
-  </div>
-  <!--Modal: modalPush-->
-  <?php /**/ ?>
-
-
-  <?php include '_webSiteAssets/inc/modalGlobal.inc.php'; ?>
-
-
-  <!--Section: Live preview-->
-  <!-- ======= Footer ======= -->
-  <footer id="footer" style="text-align: center;">
-    <div class="container">
-      <div class="">
-        <div>
-          <div class="copyright">
-            2020 - <?=date("Y") ?> Copyright &copy; <strong>Wa Group</strong>. Tous les droits sont réservés. Créé par <a href="https://web.facebook.com/WAgroupe" target="_blank" >Wa Group</a>
-            <div class="credits">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
-
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-
-  <!-- Vendor JS Files -->
-  <script src="_webSiteAssets/assets/vendor/jquery/jquery.min.js"></script>
-  <script src="_webSiteAssets/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="_webSiteAssets/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="_webSiteAssets/assets/vendor/php-email-form/validate.js"></script>
-  <script src="_webSiteAssets/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="_webSiteAssets/assets/vendor/counterup/counterup.min.js"></script>
-  <script src="_webSiteAssets/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="_webSiteAssets/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="_webSiteAssets/assets/vendor/venobox/venobox.min.js"></script>
-  <script src="_webSiteAssets/assets/vendor/aos/aos.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="_webSiteAssets/assets/js/main.js"></script>
-
-  <script src="_webSiteAssets/monJS/functions.js"></script>
-  <script src="_webSiteAssets/monJS/script.js"></script>
-
-  <script>
-    $(function () {
-      // $("#modalPush").modal('show');
-    });
-  </script>
-
+    <!--scroll bottom to top button end-->
+    <!--build:js-->
+    <script src="_webSiteAssets/assets/js/vendors/jquery-3.5.1.min.js"></script>
+    <script src="_webSiteAssets/assets/js/vendors/popper.min.js"></script>
+    <script src="_webSiteAssets/assets/js/vendors/bootstrap.min.js"></script>
+    <script src="_webSiteAssets/assets/js/vendors/jquery.easing.min.js"></script>
+    <script src="_webSiteAssets/assets/js/vendors/owl.carousel.min.js"></script>
+    <script src="_webSiteAssets/assets/js/vendors/countdown.min.js"></script>
+    <script src="_webSiteAssets/assets/js/vendors/jquery.waypoints.min.js"></script>
+    <script src="_webSiteAssets/assets/js/vendors/jquery.rcounterup.js"></script>
+    <script src="_webSiteAssets/assets/js/vendors/magnific-popup.min.js"></script>
+    <script src="_webSiteAssets/assets/js/vendors/validator.min.js"></script>
+    <script src="_webSiteAssets/assets/js/app.js"></script>
+    <!--endbuild-->
 </body>
 
 

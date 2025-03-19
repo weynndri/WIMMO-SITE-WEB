@@ -7,8 +7,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta content="Découvrez le logiciel de gestion immobilière ultime pour une gestion locative simplifiée. Profitez d'outils intuitifs et d'une plateforme ergonomique pour gérer vos biens facilement et efficacement." name="description">
-    <meta content="gestion immobilière, gestion locative, logiciel de gestion immobilière, logiciel locatif, envoi de SMS, gestion de biens immobiliers, plateforme de gestion immobilière, logiciel immobilier ivoirien, logiciel immobilier africain, gestion de propriétés, logiciel de location, gestion des locataires, outils de gestion immobilière" name="keywords">
+    <meta content="Logiciel de gestion immobilière pour l'Afrique de l'Ouest." name="description">
+    <meta content="gestion immobilière, gestion locative, logiciel de gestion immobilière, logiciel locatif, envoi de SMS, gestion de biens immobiliers, plateforme de gestion immobilière, logiciel immobilier ivoirien, logiciel immobilier africain, gestion de propriétés, logiciel de location, gestion des locataires, outils de gestion immobilière, côte d'Ivoire, congo, guinnée, tchad, cameroun, burkina-faso, togo, gabon, niger, mali, sénégal" name="keywords">
 
     <!--favicon icon-->
     <link rel="icon" href="_webSiteAssets/assets/img/faveiconeSite-WIMMO-SERVICES.png" type="image/png" sizes="16x16">
@@ -52,8 +52,9 @@
                     <ul class="navbar-nav ml-auto menu">
                         <li><a href="#" class="dropdown-toggle"> WIMMO </a>
                             <ul class="sub-menu">
-                                <li><a href="#">Qui somme nous ?</a></li>
+                                <!-- <li><a href="#">Qui somme nous ?</a></li> -->
                                 <li><a href="#">Nos partenaires</a></li>
+                                <li><a href="">L'espace Locataire : Mon Loyer</a></li>
                             </ul>
                         </li>
                         <li><a href="#about" class="page-scroll">Présentation</a></li>
@@ -202,7 +203,7 @@
                                     <li>Optimisez en toute simplicité la qualité de votre gestion grâce à des outils fiables, que ce soit pour un suivi en ligne ou une gestion en local.</li>
                                 </ul>
                                 <div class="action-btns mt-4">
-                                    <a href="#" class="btn btn-brand-02 mr-3" title="Télécharger la Fiche Technique">La Fiche Technique <i class="fa fa-download"></i></a>
+                                    <a href="_webSiteAssets/assets/documents/WIMMO v2.2.5 - Fiche Technique - Logiciel de Gestion Immobiliere.pdf" download="WIMMO Fiche Technique.v2.5.pdf" class="btn btn-brand-02 mr-3" title="Télécharger la Fiche Technique">La Fiche Technique <i class="fa fa-download"></i></a>
                                     <a href="_webSiteAssets/assets/documents/WIMMO v2.5 - Nos Tarifs - Logiciel de Gestion Immobiliere.pdf" download="WIMMO Grille Tarifaire.v2.5.pdf" class="btn btn-outline-brand-02" title="Télécharger la Grille Tarifaire">La Grille Tarifaire <i class="fa fa-download"></i></a>
                                 </div>
                             </div>
@@ -609,8 +610,8 @@
                                 <i class="fa fa-star fa-5x "></i>
                             </div>
                             <div class="py-4 border-0 pricing-header">
-                                <div class="price text-center mb-0 monthly-price color-secondary" style="display: block;">15 000<span>F CFA</span> <br><small>Par Mois</small></div>
-                                <div class="price text-center mb-0 yearly-price color-secondary" style="display: none;">150 000<span>F CFA</span> <br><small>Par Mois</small></div>
+                                <div class="price text-center mb-0 monthly-price color-secondary" style="display: block;">10 000<span>F CFA</span> <br><small>Par Mois</small></div>
+                                <div class="price text-center mb-0 yearly-price color-secondary" style="display: none;">110 000<span>F CFA</span> <br><small>Par An</small></div>
                             </div>
                             <div class="price-name">
                                 <h5 class="mb-0">Pack en Local</h5>
@@ -624,7 +625,7 @@
                                     <li>Mises à jour <span>régulière</span></li>
                                     <li class="text-deem">24/7 phone support</li>
                                 </ul>
-                                <a href="https://wa.me/2250565799963?text=Bonjour, je suis intéresé par le *Pack en Local WIMMO, 15.000 F CFA* / Mois" class="btn btn-outline-brand-02 btn-rounded mb-3" target="_blank">Commandez maintenant</a>
+                                <a href="https://wa.me/2250565799963?text=Bonjour, je suis intéresé par le *Pack en Local WIMMO, 10.000 F CFA* / Mois" class="btn btn-outline-brand-02 btn-rounded mb-3" target="_blank">Commandez maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -638,8 +639,8 @@
                                 <i class="fa fa-star fa-5x "></i>
                             </div>
                             <div class="py-4 border-0 pricing-header">
-                                <div class="price text-center mb-0 monthly-price color-secondary" style="display: block;">25 000<span>F CFA</span> <br><small>Par Mois</small></div>
-                                <div class="price text-center mb-0 yearly-price color-secondary" style="display: none;">250 000<span>F CFA</span> <br><small>Par Mois</small></div>
+                                <div class="price text-center mb-0 monthly-price color-secondary" style="display: block;">20 000<span>F CFA</span> <br><small>Par Mois</small></div>
+                                <div class="price text-center mb-0 yearly-price color-secondary" style="display: none;">220 000<span>F CFA</span> <br><small>Par An</small></div>
                             </div>
                             <div class="price-name">
                                 <h5 class="mb-0">Pack en Ligne</h5>
@@ -653,7 +654,7 @@
                                     <li>Mises à jour <span>régulière</span></li>
                                     <li class="text-deem">24/7 phone support</li>
                                 </ul>
-                                <a href="https://wa.me/2250565799963?text=Bonjour, je suis intéresé par le *Pack en Ligne WIMMO, 25.000 F CFA* / Mois" class="btn btn-brand-02 btn-rounded mb-3" target="_blank">Commandez maintenant</a>
+                                <a href="https://wa.me/2250565799963?text=Bonjour, je suis intéresé par le *Pack en Ligne WIMMO, 20.000 F CFA* / Mois" class="btn btn-brand-02 btn-rounded mb-3" target="_blank">Commandez maintenant</a>
                             </div>
                         </div>
                     </div>
@@ -666,8 +667,8 @@
                                 <i class="fa fa-star fa-5x text-warning"></i>
                             </div>
                             <div class="py-4 border-0 pricing-header">
-                                <div class="price text-center mb-0 monthly-price color-secondary" style="display: block;">2 800 000<span>F CFA</span></div>
-                                <div class="price text-center mb-0 yearly-price color-secondary" style="display: none;">2 800 000<span>F CFA</span></div>
+                                <div class="price text-center mb-0 monthly-price color-secondary" style="display: block;">1 800 000<span>F CFA</span></div>
+                                <div class="price text-center mb-0 yearly-price color-secondary" style="display: none;">1 800 000<span>F CFA</span></div>
                             </div>
                             <div class="price-name">
                                 <h5 class="mb-0">Licence à vie</h5>
@@ -1079,8 +1080,8 @@
                     </div>
                     <div class="col-md-12 col-lg-12">
                         <div class="contact-us-content">
-                            <h2>WIMMO Le logiciel qui s'adapte à tout les budget,</h2>
-                            <p class="lead">Appelez-nous à tout moment, nous répondons à toutes vos demandes dans les minutes qui suivent...</p>
+                            <h2>WIMMO Le logiciel qui s'adapte à tout les budgets,</h2>
+                            <p class="lead">Appelez-nous à tout moment ; nous répondons à toutes vos demandes dans les minutes qui suivent...</p>
                         </div>
                     </div>
                     <div class="col-md-12 col-lg-4">
@@ -1222,7 +1223,7 @@
             <div class="row newsletter-wrap primary-bg rounded shadow-lg p-5">
                 <div class="col-md-12 col-lg-12 mb-4 mb-md-0 mb-sm-12 mb-lg-0">
                     <div class="newsletter-content text-white" align="center">
-                        <h3 class="mb-0 text-white text-uppercase">Testez Le Logiciel WIMMO Gratuitement</h3>
+                        <h3 class="mb-0 text-white text-uppercase">Evaluez Le Logiciel Gratuitement pendant <span class="text-warning">7 Jours</span></h3>
                         <!-- <p class="mb-0">We’re a team of non-cynics who truly care for our work.</p> -->
                     </div>
                 </div>

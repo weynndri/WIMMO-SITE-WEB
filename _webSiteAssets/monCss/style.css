@@ -1,0 +1,68 @@
+
+/*========= ANIMATION DEBUT */
+.Wfaire-clignote  {
+   animation-duration: 2.5s;
+   animation-name: clignoter;
+   animation-iteration-count: infinite;
+   transition: none;
+}
+
+.Wfaire-clignote-2x  {
+   animation-duration: .8s;
+   animation-name: clignoter;
+   animation-iteration-count: infinite;
+   transition: none;
+}
+
+@keyframes clignoter {
+  0%   { opacity:1; }
+  40%   {opacity:0; }
+  100% { opacity:1; }
+}
+/*========= ANIMATION FIN */
+
+
+
+.Wbordure-surbrillance {
+  border: 2px solid #00f0ff;
+  animation: glowBorder 2s infinite ease-in-out;
+  border-radius: 8px; /* facultatif pour arrondir un peu */
+}
+
+@keyframes glowBorder {
+  0% {
+    box-shadow: 0 0 5px #00f0ff, 0 0 10px #00f0ff, 0 0 15px #00f0ff;
+  }
+  50% {
+    box-shadow: 0 0 15px #00f0ff, 0 0 25px #00f0ff, 0 0 35px #00f0ff;
+  }
+  100% {
+    box-shadow: 0 0 5px #00f0ff, 0 0 10px #00f0ff, 0 0 15px #00f0ff;
+  }
+}
+
+.Wbordure-surbrillance-alternee {
+  border: 2px solid transparent;
+  animation: glowColorCycle 4s infinite ease-in-out;
+  border-radius: 8px; /* pour un look plus doux */
+}
+
+@keyframes glowColorCycle {
+  0% {
+    box-shadow: 0 0 10px #00f0ff, 0 0 20px #00f0ff, 0 0 30px #00f0ff;
+    border-color: #00f0ff;
+  }
+  33% {
+    box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000;
+    border-color: #ff0000;
+  }
+  66% {
+    box-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00;
+    border-color: #00ff00;
+  }
+  100% {
+    box-shadow: 0 0 10px #00f0ff, 0 0 20px #00f0ff, 0 0 30px #00f0ff;
+    border-color: #00f0ff;
+  }
+}
+

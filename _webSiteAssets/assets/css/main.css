@@ -24005,7 +24005,7 @@ tr.register-items-header th {
 
 /* line 103, src/assets/scss/components/price-section/_price-1.scss */
 .pricing-header .price {
-  font-size: 40px;
+  font-size: 28px;
   line-height: 45px;
   font-weight: 700;
   font-family: "Montserrat", sans-serif;
@@ -24013,6 +24013,7 @@ tr.register-items-header th {
 
 /* line 108, src/assets/scss/components/price-section/_price-1.scss */
 .pricing-header .price span {
+  font-weight: 5000;
   font-size: 20px;
 }
 

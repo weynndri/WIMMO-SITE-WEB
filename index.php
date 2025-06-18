@@ -12,8 +12,23 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta content="Logiciel de gestion immobilière pour l'Afrique de l'Ouest." name="description">
-    <meta content="gestion immobilière, gestion locative, logiciel de gestion immobilière, logiciel locatif, envoi de SMS, gestion de biens immobiliers, plateforme de gestion immobilière, logiciel immobilier ivoirien, logiciel immobilier africain, gestion de propriétés, logiciel de location, gestion des locataires, outils de gestion immobilière, côte d'Ivoire, congo, guinnée, tchad, cameroun, burkina-faso, togo, gabon, niger, mali, sénégal" name="keywords">
+    <meta content="Logiciel de Gestion Immobilière Pensé Pour l'Afrique" name="description">
+    <meta content="gestion immobilière, gestion locative, logiciel de gestion immobilière, logiciel locatif, envoi de SMS, gestion de biens immobiliers, plateforme de gestion immobilière, logiciel immobilier ivoirien, logiciel immobilier africain, gestion de propriétés, logiciel de location, gestion des locataires, outils de gestion immobilière, côte d'Ivoire, congo, guinnée, tchad, cameroun, burkina-faso, togo, gabon, niger, mali, sénégal, afrique" name="keywords">
+
+
+    <!-- Open Graph (Facebook, WhatsApp, LinkedIn, etc.) -->
+    <meta property="og:title" content="WIMMO - Logiciel de Gestion Immobilière Pensé Pour l'Afrique">
+    <meta property="og:description" content="La Solution complète pour une gestion immobilières éfficace.">
+    <meta property="og:image" content="https://wimmo-ci.com/_webSiteAssets/assets/img/logoIconeSite-WIMMO-SERVICES.png">
+    <meta property="og:url" content="https://wimmo-ci.com">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card (optionnel mais conseillé) -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="WIMMO - Logiciel de Gestion Immobilière Pensé Pour l'Afrique">
+    <meta name="twitter:description" content="La Solution complète pour une gestion immobilières éfficace.">
+    <meta name="twitter:image" content="https://wimmo-ci.com/_webSiteAssets/assets/img/logoIconeSite-WIMMO-SERVICES.png">
+    
 
     <!--favicon icon-->
     <link rel="icon" href="_webSiteAssets/assets/img/faveiconeSite-WIMMO-SERVICES.png" type="image/png" sizes="16x16">
@@ -107,7 +122,7 @@
                                     <div class="col-12">
                                         <div class="counter-item d-flex align-items-center py-3">
                                             <h5 class="text-white mb-0">
-                                                Location à partir de <span class="text-warning">20.000 F CFA</span> / mois
+                                                Abonnement à partir de <span class="text-warning">20.000 F CFA</span> / mois
                                             </h5>
                                             <span class="color-6 ml-2 p-2 rounded-circle">
                                                 <i class="fas fa-arrow-up icon-sm"></i>

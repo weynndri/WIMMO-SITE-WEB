@@ -1,0 +1,50 @@
+
+.W_carousel_container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    padding: 20px 0;
+}
+
+.W_carousel_track {
+    display: flex;
+    gap: 40px;
+    width: max-content;
+    animation: scroll 35s linear infinite;
+    position: relative;
+}
+
+/* DUPLICATION automatique */
+.W_carousel_track::after {
+    content: "";
+    display: flex;
+    gap: 40px;
+    padding-left: 40px;
+}
+
+/* Pause au survol */
+.W_carousel_container:hover .W_carousel_track {
+    animation-play-state: paused;
+}
+
+.W_item {
+    flex: 0 0 auto;
+}
+
+.W_logo {
+    width: 220px;
+    height: auto;
+    object-fit: contain;
+    transition: transform .3s ease;
+    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.15));
+}
+
+.W_logo:hover {
+    transform: scale(1.05);
+}
+
+/* Animation infinie */
+@keyframes scroll {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-50%); }
+}

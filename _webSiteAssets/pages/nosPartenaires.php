@@ -60,18 +60,6 @@
         </div>
 
         <div class="row mb-5">
-            <!-- NDM Holding -->
-            <div class="col-lg-6 mb-4" data-aos="fade-up">
-                <div class="partner-card text-center p-4 shadow-sm rounded bg-white h-100">
-                    <img src="_webSiteAssets/assets/img/partenaires/ndm-holding.jpg" alt="NDM Holding" class="img-fluid mb-3" style="width: 120px;">
-                    <h4 class="mb-1">NDM Holding</h4>
-                    <span class="text-muted d-block mb-3">Partenaire Technique</span>
-                    <p class="small mb-1"><strong>Domaine :</strong> Solutions techniques & support opérationnel</p>
-                    <!-- <p class="small mb-3"><strong>Localisation :</strong> Abidjan, Côte d'Ivoire</p>
-                    <p class="small">NDM Holding accompagne WIMMO dans l'intégration de solutions numériques, le support technique et l'accompagnement opérationnel.</p> -->
-                </div>
-            </div>
-            
             <!-- La Maison de l'Informatique -->
             <div class="col-lg-6 mb-4" data-aos="fade-up">
                 <div class="partner-card text-center p-4 shadow-sm rounded bg-white h-100">
@@ -84,13 +72,24 @@
                 </div>
             </div>
 
+            <!-- NDM Holding -->
+            <div class="col-lg-6 mb-4" data-aos="fade-up">
+                <div class="partner-card text-center p-4 shadow-sm rounded bg-white h-100">
+                    <img src="_webSiteAssets/assets/img/partenaires/default.png" alt="NDM Holding" class="img-fluid mb-3" style="width: 120px;">
+                    <h4 class="mb-1">NDM Holding</h4>
+                    <span class="text-muted d-block mb-3">Partenaire Technique</span>
+                    <p class="small mb-1"><strong>Domaine :</strong> Solutions techniques & support opérationnel</p>
+                    <!-- <p class="small mb-3"><strong>Localisation :</strong> Abidjan, Côte d'Ivoire</p>
+                    <p class="small">NDM Holding accompagne WIMMO dans l'intégration de solutions numériques, le support technique et l'accompagnement opérationnel.</p> -->
+                </div>
+            </div>
         </div>
 
         <div class="row">
             <!-- SODEWARE -->
             <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="partner-card text-center p-4 shadow-sm rounded bg-white h-100">
-                    <img src="_webSiteAssets/assets/img/partenaires/sodeware.jpg" alt="SODEWARE" class="img-fluid mb-3" style="width: 120px;">
+                    <img src="_webSiteAssets/assets/img/partenaires/default.png" alt="SODEWARE" class="img-fluid mb-3" style="width: 120px;">
                     <h4 class="mb-1">SODEWARE</h4>
                     <span class="text-muted d-block mb-3">Partenaire Technique & Développement</span>
                     <p class="small mb-1"><strong>Domaine :</strong> Développement logiciel & ingénierie informatique</p>

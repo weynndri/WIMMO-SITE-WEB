@@ -641,7 +641,7 @@
                             <div class="single-review-wrap gray-light-bg p-5 my-3">
                                 <div class="review-top d-flex align-items-center justify-content-between mb-3">
                                     <div class="review-author d-flex align-items-center">
-                                        <img src="assets/img/profil.jpg" width="50" alt="author"
+                                        <img src="_webSiteAssets/assets/img/profil.jpg" width="50" alt="author"
                                              class="rounded-circle border shadow-sm img-fluid mr-3" />
                                         <div class="review-info">
                                             <h6 class="mb-0">Mme KONÉ Awa</h6>
@@ -663,7 +663,7 @@
                             <div class="single-review-wrap gray-light-bg p-5 my-3">
                                 <div class="review-top d-flex align-items-center justify-content-between mb-3">
                                     <div class="review-author d-flex align-items-center">
-                                        <img src="assets/img/client/1.jpg" width="50" alt="author"
+                                        <img src="_webSiteAssets/assets/img/profil.jpg" width="50" alt="author"
                                              class="rounded-circle border shadow-sm img-fluid mr-3" />
                                         <div class="review-info">
                                             <h6 class="mb-0">M. YAO Patrice</h6>
@@ -685,7 +685,7 @@
                             <div class="single-review-wrap gray-light-bg p-5 my-3">
                                 <div class="review-top d-flex align-items-center justify-content-between mb-3">
                                     <div class="review-author d-flex align-items-center">
-                                        <img src="assets/img/client/3.jpg" width="50" alt="author"
+                                        <img src="_webSiteAssets/assets/img/profil.jpg" width="50" alt="author"
                                              class="rounded-circle border shadow-sm img-fluid mr-3" />
                                         <div class="review-info">
                                             <h6 class="mb-0">Mme OUATTARA Mariam</h6>

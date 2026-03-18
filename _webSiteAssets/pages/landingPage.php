@@ -38,7 +38,7 @@
                                 <div class="col-12">
                                     <div class="counter-item d-flex align-items-center py-3">
                                         <h5 class="text-white mb-0">
-                                            Abonnement à partir de <span class="text-warning">20.000 F CFA</span> / mois
+                                            Abonnement à partir de <span class="text-warning">20.000 XOF</span> / mois
                                         </h5>
                                         <span class="color-6 ml-2 p-2 rounded-circle">
                                             <i class="fas fa-arrow-up icon-sm"></i>
@@ -453,7 +453,11 @@
                   <li>Mises à jour régulières incluses</li>
                   <li>Support standard via WhatsApp</li>
                 </ul> -->
-                <a href="https://wa.me/2250565799963?text=Bonjour, je suis intéressé par le *Pack Starter WIMMO, 20.000 F CFA / Mois*" class="btn btn-outline-brand-02 btn-rounded mb-3" target="_blank">Commandez</a>
+                <a href="https://wa.me/2250565799963?text=Bonjour,%0A%0ANous gérons entre 1 et 100 logements et souhaitons souscrire au *Pack Starter WIMMO – 20.000 XOF / mois*.%0A%0AMerci de nous contacter pour avoir plus d’informations."
+                class="btn btn-outline-brand-02 btn-rounded mb-3" target="_blank">
+                Commandez
+                </a>
+
               </div>
             </div>
           </div>
@@ -495,7 +499,11 @@
                   <li>Rappels automatiques & statistiques</li>
                   <li>Support prioritaire</li>
                 </ul> -->
-                <a href="https://wa.me/2250565799963?text=Bonjour, je suis intéressé par le *Pack Pro WIMMO, 30.000 F CFA / Mois*" class="btn btn-brand-02 btn-rounded mb-3" target="_blank">Commandez</a>
+                <a href="https://wa.me/2250565799963?text=Bonjour,%0A%0ANous gérons plus de 100 logements et sommes intéressés par le *Pack Pro WIMMO – 30.000 XOF / mois*.%0A%0AMerci de nous contacter afin de discuter des détails."
+                class="btn btn-brand-02 btn-rounded mb-3" target="_blank">
+                Commandez
+                </a>
+
               </div>
             </div>
           </div>
@@ -531,7 +539,11 @@
                 </ul>
 
 
-                <a href="https://wa.me/2250565799963?text=Bonjour, je suis intéressé par le *Pack Business WIMMO, 3.800.000 F CFA / Mois*" class="btn btn-outline-brand-02 btn-rounded mb-3" target="_blank">Commandez</a>
+                <a href="https://wa.me/2250565799963?text=Bonjour,%0A%0ANous sommes intéressés par le *Pack Business WIMMO – 3.800.000 XOF à vie*.%0A%0AMerci de nous contacter afin de discuter des détails."
+                class="btn btn-outline-brand-02 btn-rounded mb-3" target="_blank">
+                Commandez
+                </a>
+
               </div>
             </div>
           </div>
